@@ -10,7 +10,4 @@ Solutions to my LeetCode Problem Solving
 |Math|[Folder](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Math)|
 |Shell|[Folder](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Shell)|
 |Strings|[Folder](https://github.com/HarshOza36/LeetCode_Problems/tree/main/String)|
-<<<<<<< HEAD
-|Design|[Folder](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Design)|
-=======
->>>>>>> 18533a2fdb07fa2cf6a45f7e14805ba385ac64e9
+

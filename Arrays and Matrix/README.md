@@ -6,9 +6,9 @@ Below are the questions links with solution links
 |--------------|--------|
 |01. [Two Sum](https://leetcode.com/problems/two-sum)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P01%20-%20twoSum.py)|
 |04. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P04%20-%20medianOfTwoSortedArrays.py)|
-|26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution]()|
+|26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P26%20-%20remove_duplicates_from_sorted_array.py)|
 |27. [Remove Element](https://leetcode.com/problems/remove-element)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P27%20-%20removeElement.py)|
-|66. [Plus One](https://leetcode.com/problems/plus-one)|[Solution]()|
+|66. [Plus One](https://leetcode.com/problems/plus-one)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P66%20-%20PlusOne.py)|
 |414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P414%20-%20thirdMaximumNumber.py)|
 |1431. [Kids with Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1431%20-%20Kids_withGreatestNoofCandies.py)|
 |1470. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1470%20-%20Shuffle_the_Array.py)|

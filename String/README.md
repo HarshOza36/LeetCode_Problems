@@ -8,6 +8,8 @@ Below are the questions links with solution links
 |12. [Integer To Roman](https://leetcode.com/problems/integer-to-roman)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P12%20-%20intergerToRoman.py)|
 |13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P13%20-%20romanToInteger.py)|
 |20. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P20%20-%20validParenthesis.py)|
+|28. [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P28%20-implementstrStr().py)|
+|58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P58%20-%20lengthofLastWord.py)|
 |205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P205%20-isomorphicString.py)|
 |344. [Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P344%20-%20reverseString.py)|
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|

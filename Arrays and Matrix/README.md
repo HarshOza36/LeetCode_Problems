@@ -14,6 +14,7 @@ Below are the questions links with solution links
 |217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P217%20-%20containsDuplicate.py)|
 |283. [Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P283.%20moveZeros.py)|
 |414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P414%20-%20thirdMaximumNumber.py)|
+|1207. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1207.%20uniqueNumberofOccurrences.py)|
 |1431. [Kids with Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1431%20-%20Kids_withGreatestNoofCandies.py)|
 |1470. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1470%20-%20Shuffle_the_Array.py)|
 |1480. [Running Sum of 1-d Array](https://leetcode.com/problems/running-sum-of-1d-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1480%20-%20RunningSum.py)|

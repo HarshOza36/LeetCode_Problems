@@ -10,8 +10,10 @@ Below are the questions links with solution links
 |20. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P20%20-%20validParenthesis.py)|
 |28. [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P28%20-implementstrStr().py)|
 |58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P58%20-%20lengthofLastWord.py)|
+|125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P125%20-%20validPalindrome.py)|
 |205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P205%20-isomorphicString.py)|
 |344. [Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P344%20-%20reverseString.py)|
+|709. [To Lower case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P709%20-%20toLowerCase.py)|
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|
 |1108. [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1108%20-%20Defanging%20an%20IP%20address.py)|
 |1528. [Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1528%20-%20Shuffle%20String.py)|

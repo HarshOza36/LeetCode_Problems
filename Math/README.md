@@ -8,6 +8,6 @@ Below are the questions links with solution links
 |09. [Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P09%20-%20palindromeNumber.py)|
 |29. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P29%20-%20divideTwoIntegers.py)|
 |43. [Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P43%20-%20MultiplyStrings.py)|
-|50. []()|[Solution]()|
-|231. []()|[Solution]()|
-|877. []()|[Solution]()|
+|50. [Pow (x,n)](https://leetcode.com/problems/powx-n)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P50%20-%20Pow(x%2Cn).py)|
+|231. [Power of Two](https://leetcode.com/problems/power-of-two)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P231%20-%20powerOfTwo.py)|
+|877. [Stone Game](https://leetcode.com/problems/stone-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P877%20-%20StoneGame.py)|

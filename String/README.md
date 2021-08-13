@@ -17,6 +17,6 @@ Below are the questions links with solution links
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|
 |1108. [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1108%20-%20Defanging%20an%20IP%20address.py)|
 |1528. [Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1528%20-%20Shuffle%20String.py)|
-|1678. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)|[Solution]()|
-|1773. [Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Solution]()|
+|1678. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1678%20-%20goalParserInterpretation.py)|
+|1773. [Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1773%20-%20countItemsMatchingARule.txt)|
 |1935. [Maximum Number of Words You can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1935.%20maxNumberofWordsyouCanType.py)|

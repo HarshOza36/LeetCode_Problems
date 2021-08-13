@@ -11,6 +11,6 @@ Below are the questions links with solution links
 |50. [Pow (x,n)](https://leetcode.com/problems/powx-n)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P50%20-%20Pow(x%2Cn).py)|
 |231. [Power of Two](https://leetcode.com/problems/power-of-two)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P231%20-%20powerOfTwo.py)|
 |877. [Stone Game](https://leetcode.com/problems/stone-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P877%20-%20StoneGame.py)|
-|1486. [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)|[Solution]()|
-|1512. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)|[Solution]()|
-|1828. [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)|[Solution]()|
+|1486. [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1486%20-%20XORoperationInAnArray.py)|
+|1512. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1512%20-%20numberOfGoodPairs.py)|
+|1828. [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1828%20-%20queriesOnNumberOfPointsInsideCircle.py)|

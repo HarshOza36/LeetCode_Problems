@@ -10,7 +10,7 @@ Below are the questions links with solution links
 |27. [Remove Element](https://leetcode.com/problems/remove-element)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P27%20-%20removeElement.py)|
 |48. [Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P48%20-%20rotateImage.py)|
 |66. [Plus One](https://leetcode.com/problems/plus-one)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P66%20-%20PlusOne.py)|
-|84. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution]()|
+|84. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P84%20-%20largestRectangleInHistogram.py)|
 |136. [Single Number](https://leetcode.com/problems/single-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P136%20-%20singleNumber.py)|
 |217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P217%20-%20containsDuplicate.py)|
 |283. [Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P283.%20moveZeros.py)|

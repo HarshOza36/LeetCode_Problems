@@ -6,6 +6,7 @@ Below are the questions links with solution links
 |--------------|--------|
 |02. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P02%20-%20addTwoNumbers.py)|
 |21. [Merge Two Sorted Linked  Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P21.%20mergeTwoSortedLinkedList.py)|
+|24. [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution]()|
 |83. [Remove Duplicates from Sorted Linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P83.%20removeDuplicatesFromSortedList.py)|
 |206. [Reverse a Linked list](https://leetcode.com/problems/reverse-linked-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P206.%20reverseLinkedList.py)|
 |237. [Delete Node from Linked list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P237%20-%20deleteNodeInLinkedList.py)|

@@ -1,6 +1,8 @@
 # LeetCode_Problems
 
-Solutions to my LeetCode Problem Solving
+Solutions to my LeetCode Problem Solving.
+
+Click on the folders and Use the Readme file to navigate through the problems.
 
 |Problem Type|Solutions|
 |--------------|--------|
@@ -11,4 +13,5 @@ Solutions to my LeetCode Problem Solving
 |Math|[Folder](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Math)|
 |Shell|[Folder](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Shell)|
 |Strings|[Folder](https://github.com/HarshOza36/LeetCode_Problems/tree/main/String)|
+|Trees|[Folder](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Tree)|
 

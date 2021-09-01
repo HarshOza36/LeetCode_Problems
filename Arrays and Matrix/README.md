@@ -13,6 +13,7 @@ Below are the questions links with solution links
 |66. [Plus One](https://leetcode.com/problems/plus-one)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P66%20-%20PlusOne.py)|
 |84. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P84%20-%20largestRectangleInHistogram.py)|
 |136. [Single Number](https://leetcode.com/problems/single-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P136%20-%20singleNumber.py)|
+|153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Solution]()|
 |217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P217%20-%20containsDuplicate.py)|
 |283. [Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P283%20-%20%20moveZeros.py)|
 |414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P414%20-%20thirdMaximumNumber.py)|

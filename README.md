@@ -9,6 +9,7 @@ Use the Solutions links below, which brings you to a Readme file of that problem
 |Problem Type|Solutions|
 |--------------|--------|
 |Arrays and Matrix|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/README.md#leetcode-problems-on-arrays-and-matrix)|
+|Backtracking|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/BackTracking#leetcode-problems-on-backtracking)|
 |Database|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Database#leetcode-problems-on-database)|
 |Design|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Design#leetcode-problems-on-design)|
 |Dynamic Programming|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Dynamic%20Programming#leetcode-problems-on-dynamic-programming)|

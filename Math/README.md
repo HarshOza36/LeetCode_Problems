@@ -9,7 +9,9 @@ Below are the questions links with solution links
 |29. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P29%20-%20divideTwoIntegers.py)|
 |43. [Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P43%20-%20MultiplyStrings.py)|
 |50. [Pow (x,n)](https://leetcode.com/problems/powx-n)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P50%20-%20Pow(x%2Cn).py)|
+|69. [Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Solution]()|
 |231. [Power of Two](https://leetcode.com/problems/power-of-two)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P231%20-%20powerOfTwo.py)|
+|367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Solution]()|
 |537. [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P537%20-%20complexNumberMultiplication.py)|
 |633. [Sum of Square numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P633%20-%20sumOfSquareNumbers.py)|
 |779. [Kth Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar)|[Solution]()|

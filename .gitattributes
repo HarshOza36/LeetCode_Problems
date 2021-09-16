@@ -1,2 +1,4 @@
-*.sql linguist-detectable=true
-*.sql linguist-language=sql
+* linguist-vendored
+*.py linguist-vendored=false
+*.bash linguist-vendored=false
+*.sql linguist-vendored=false

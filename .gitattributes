@@ -1,4 +1,6 @@
-* linguist-vendored
-*.py linguist-vendored=false
-*.bash linguist-vendored=false
-*.sql linguist-vendored=false
+*.py linguist-detectable=true
+*.py linguist-language=Python
+*.sh linguist-detectable=true
+*.sh linguist-language=Shell
+*.sql linguist-detectable=true
+*.sql linguist-language=sql

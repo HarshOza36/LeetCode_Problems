@@ -10,7 +10,7 @@ Below are the questions links with solution links
 |27. [Remove Element](https://leetcode.com/problems/remove-element)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P27%20-%20removeElement.py)|
 |36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P36%20-%20validSudoku.py)|
 |48. [Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P48%20-%20rotateImage.py)|
-|54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution]()|
+|54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P54%20-%20spiralMatrix.py)|
 |66. [Plus One](https://leetcode.com/problems/plus-one)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P66%20-%20PlusOne.py)|
 |84. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P84%20-%20largestRectangleInHistogram.py)|
 |136. [Single Number](https://leetcode.com/problems/single-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P136%20-%20singleNumber.py)|
@@ -20,7 +20,7 @@ Below are the questions links with solution links
 |414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P414%20-%20thirdMaximumNumber.py)|
 |598. [Range Addition II](https://leetcode.com/problems/range-addition-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P598%20-%20RangeAdditionII.py)|
 |1207. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1207%20-%20uniqueNumberofOccurrences.py)|
-|1282. [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution]()|
+|1282. [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1282%20-%20groupThePeopleGiventheGroupSizeTheyBelongTo.py)|
 |1346. [Check if N and its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1346%20-%20checkIfNandItsDoubleExist.py)|
 |1431. [Kids with Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1431%20-%20Kids_withGreatestNoofCandies.py)|
 |1470. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1470%20-%20Shuffle_the_Array.py)|
@@ -29,6 +29,6 @@ Below are the questions links with solution links
 |1672. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1672%20-%20Richest_Customer_Wealth.py)|
 |1833. [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1833%20-%20maximumIcecreamBars.py)|
 |1909. [Remove one element to make the array strictly increasing ](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1909%20-%20RemoveOneElementtoMaketheArrayStrictlyIncreasing.py)|
-|1913. [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution]()|
+|1913. [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1913%20-%20maxProductDiffBetweenTwoPairs.py)|
 |1920. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1920%20-%20buildArrayFromPermutation.py)|
 |1929. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1929%20-%20concatenationOfArr.py)|

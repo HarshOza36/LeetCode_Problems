@@ -6,4 +6,4 @@ Below are the questions links with solution links
 |--------------|--------|
 |17. [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Solution]()|
 |37. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P37%20-%20sudokuSolver.py)|
-|282. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Solution]()|
+|282. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P282%20-%20ExpressionAddOperators.py)|

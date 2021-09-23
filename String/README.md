@@ -20,6 +20,7 @@ Below are the questions links with solution links
 |917. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P917%20-%20reverseOnlyLetters.py)|
 |1108. [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1108%20-%20Defanging%20an%20IP%20address.py)|
 |1189. [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1189%20-%20maximumNumberofBalloons.py)|
+|1328. [Break A String](https://leetcode.com/problems/break-a-palindrome/)|[Solution]()|
 |1528. [Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1528%20-%20Shuffle%20String.py)|
 |1678. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1678%20-%20goalParserInterpretation.py)|
 |1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1689%20-%20partitioningIntoMinimumNumberOfDeciBinaryNo.py)|

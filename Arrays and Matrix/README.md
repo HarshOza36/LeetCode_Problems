@@ -21,6 +21,8 @@ Below are the questions links with solution links
 |414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P414%20-%20thirdMaximumNumber.py)|
 |485. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P485%20-%20maxConsecutiveOnes.py)|
 |598. [Range Addition II](https://leetcode.com/problems/range-addition-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P598%20-%20RangeAdditionII.py)|
+|782. [Transform to chessboard](https://leetcode.com/problems/transform-to-chessboard/)|[Solution]()|
+|922. [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Solution]()|
 |1207. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1207%20-%20uniqueNumberofOccurrences.py)|
 |1275. [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1275%20-%20findWinneronTicTacToeGame.py)|
 |1282. [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1282%20-%20groupThePeopleGiventheGroupSizeTheyBelongTo.py)|

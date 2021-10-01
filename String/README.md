@@ -21,7 +21,7 @@ Below are the questions links with solution links
 |929. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P929%20-%20uniqueEmailAddresses.py)|
 |1108. [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1108%20-%20Defanging%20an%20IP%20address.py)|
 |1189. [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1189%20-%20maximumNumberofBalloons.py)|
-|1221. [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution]()|
+|1221. [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1221%20-%20splitAStringInBalancedStrings.py)|
 |1328. [Break A Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1328%20-%20breakPalindrome.py)|
 |1528. [Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1528%20-%20Shuffle%20String.py)|
 |1624. [Largest Substring between two equal characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1624%20-%20largestSubstringBetweenTwoEqualCharacters.py)|
@@ -30,4 +30,4 @@ Below are the questions links with solution links
 |1773. [Count Items Matching A Rule](https://leetcode.com/problems/count-items-matching-a-rule)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1773%20-%20countItemsMatchingARule.py)|
 |1859. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1859%20-%20sortingTheSentence.py)|
 |1935. [Maximum Number of Words You can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1935%20-%20maxNumberofWordsyouCanType.py)|
-|2011. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Solution]()|
+|2011. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P2011%20-%20finalValueofVariableAfterPerformingOperations.py)|

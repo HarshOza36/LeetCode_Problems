@@ -12,4 +12,4 @@ Below are the questions links with solution links
 |926. [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P926%20-%20flipStringToMonotoneIncreasing.py)|
 |978. [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P978%20-%20longestTurbulentSubarray.py)|
 |1137. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1137%20-%20nthTribonacciNumber.py)|
-|1143. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Solution]()|
+|1143. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1143%20-%20longestCommonSubsequence.py)|

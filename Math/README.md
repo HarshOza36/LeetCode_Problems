@@ -15,10 +15,10 @@ Below are the questions links with solution links
 |367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P367%20-%20validPerfectSquare.py)|
 |537. [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P537%20-%20complexNumberMultiplication.py)|
 |633. [Sum of Square numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P633%20-%20sumOfSquareNumbers.py)|
-|728. [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Solution]()|
+|728. [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P728%20-%20selfDividingNumber.py)|
 |779. [Kth Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P779%20-%20kthSymbolInGrammar.py)|
 |877. [Stone Game](https://leetcode.com/problems/stone-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P877%20-%20StoneGame.py)|
-|1281. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|[Solution]()|
+|1281. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1281%20-%20subtracttheProductandSumofDigitsofanInteger.py)|
 |1486. [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1486%20-%20XORoperationInAnArray.py)|
 |1512. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1512%20-%20numberOfGoodPairs.py)|
 |1828. [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1828%20-%20queriesOnNumberOfPointsInsideCircle.py)|

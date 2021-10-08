@@ -4,7 +4,7 @@ Below are the questions links with solution links
 
 |Problem Number|Solution|
 |--------------|--------|
-|53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution]()|
+|53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P53%20-%20maximumSubarray.py)|
 |55. [Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P55%20-%20jumpGame.py)|
 |70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P70%20-%20climbingStairs.py)|
 |118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P118%20-%20pascal'sTriangle.py)|

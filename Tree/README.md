@@ -12,4 +12,4 @@ Below are the questions links with solution links
 |653. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P653%20-%20TwoSumIV_InputIsBST.py)|
 |700. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P700%20-%20SearchInBST.py)|
 |938. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P938%20-%20rangeSumOfBST.py)|
-|1008. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution]()|
+|1008. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P1004%20-%20constructBinarySearchTreeFromPreorderTraversal.py)|

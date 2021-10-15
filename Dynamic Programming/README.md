@@ -9,6 +9,8 @@ Below are the questions links with solution links
 |70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P70%20-%20climbingStairs.py)|
 |118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P118%20-%20pascal'sTriangle.py)|
 |119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P119%20-%20pascal'sTriangleII.py)|
+|279. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution]()|
+|309. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Solution]()|
 |338. [Counting Bits](https://leetcode.com/problems/counting-bits)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P338%20-%20Counting%20Bits.py)|
 |509. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P509%20-%20fibonacciNumber.py)|
 |926. [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P926%20-%20flipStringToMonotoneIncreasing.py)|

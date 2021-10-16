@@ -9,7 +9,7 @@ Below are the questions links with solution links
 |70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P70%20-%20climbingStairs.py)|
 |118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P118%20-%20pascal'sTriangle.py)|
 |119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P119%20-%20pascal'sTriangleII.py)|
-|123. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Solution]()|
+|123. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P123%20-%20bestTimeToBuyAndSellStock_III.py)|
 |279. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P279%20-%20perfectSquares.py)|
 |309. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P309%20-%20bestTimetoBuyAndSellStockwithCooldown.py)|
 |338. [Counting Bits](https://leetcode.com/problems/counting-bits)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P338%20-%20Counting%20Bits.py)|

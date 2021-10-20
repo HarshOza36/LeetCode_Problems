@@ -2,8 +2,8 @@
 
 ```css
                                     Solutions to my LeetCode Problem Solving
-Use the Solutions links below, which brings you to a Readme file of that problem type for navigating problems easily
-The problem types not listed here are covered in Misc Folder.
+Use the Solutions links below, which brings you to a Readme file of that problem type for navigating 
+problems easily The problem types not listed here are covered in Misc Folder.
 ```
 
 |Problem Type|Solutions|

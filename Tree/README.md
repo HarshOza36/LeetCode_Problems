@@ -8,7 +8,7 @@ Below are the questions links with solution links
 |104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P104%20-%20maxDepthofBinaryTree.py)|
 |144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P144%20-%20binaryTreePreorderTraversal.py)|
 |145. [Binary Tree PostorderTraversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P145%20-%20binaryTreePostorderTraversal.py)|
-|222. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Solution]()|
+|222. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P222%20-%20countCompleteTreeNodes.py)|
 |437. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P437%20-%20pathSum_III.py)|
 |543. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P543%20-%20diameterOfBinaryTree.py)|
 |653. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree/P653%20-%20TwoSumIV_InputIsBST.py)|

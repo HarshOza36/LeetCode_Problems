@@ -12,6 +12,7 @@ Below are the questions links with solution links
 |48. [Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P48%20-%20rotateImage.py)|
 |54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P54%20-%20spiralMatrix.py)|
 |66. [Plus One](https://leetcode.com/problems/plus-one)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P66%20-%20PlusOne.py)|
+|75. [Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution]()|
 |84. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P84%20-%20largestRectangleInHistogram.py)|
 |153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P153%20-%20findMinInRotatedSortedArray.py)|
 |154. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P154%20-%20findMinInRotatedSortedArray_II.py)|

@@ -6,7 +6,7 @@ Below are the questions links with solution links
 |--------------|--------|
 |01. [Two Sum](https://leetcode.com/problems/two-sum)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P01%20-%20twoSum.py)|
 |04. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P04%20-%20medianOfTwoSortedArrays.py)|
-|15. [3Sum](https://leetcode.com/problems/3sum/)|[Solution]()|
+|15. [3Sum](https://leetcode.com/problems/3sum/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P15%20-%203Sum.py)|
 |26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P26%20-%20remove_duplicates_from_sorted_array.py)|
 |27. [Remove Element](https://leetcode.com/problems/remove-element)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P27%20-%20removeElement.py)|
 |36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P36%20-%20validSudoku.py)|
@@ -25,7 +25,7 @@ Below are the questions links with solution links
 |485. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P485%20-%20maxConsecutiveOnes.py)|
 |496. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P496%20-%20nextGreaterElement_I.py)|
 |598. [Range Addition II](https://leetcode.com/problems/range-addition-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P598%20-%20RangeAdditionII.py)|
-|912. [Sort an Array](https://leetcode.com/problems/sort-an-array)|[Solution]()|
+|912. [Sort an Array](https://leetcode.com/problems/sort-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P912%20-%20sortAnArray.py)|
 |922. [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P922%20-%20sortArrayByParity_II.py)|
 |1207. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1207%20-%20uniqueNumberofOccurrences.py)|
 |1275. [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1275%20-%20findWinneronTicTacToeGame.py)|

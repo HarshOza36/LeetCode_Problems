@@ -21,7 +21,7 @@ Below are the questions links with solution links
 |848. [Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P848%20-%20shiftingLetters.py)|
 |917. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P917%20-%20reverseOnlyLetters.py)|
 |929. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P929%20-%20uniqueEmailAddresses.py)|
-|1044. [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution]()|
+|1044. [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1044%20-%20longestDuplicateSubstring.py)|
 |1108. [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1108%20-%20Defanging%20an%20IP%20address.py)|
 |1189. [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1189%20-%20maximumNumberofBalloons.py)|
 |1221. [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1221%20-%20splitAStringInBalancedStrings.py)|

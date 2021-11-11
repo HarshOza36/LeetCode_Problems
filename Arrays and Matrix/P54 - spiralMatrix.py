@@ -27,7 +27,7 @@ class Solution(object):
                 answer.append(matrix[r_end][c])
             r_end -= 1
             
-            # forst column
+            # first column
             for r in range(r_end,r_start-1,-1):
                 answer.append(matrix[r][c_start])
             c_start += 1

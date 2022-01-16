@@ -31,7 +31,7 @@
 #             l3 = l3.next
 #         return head
 
-# Above is a brute force approach but it works for
+# Above is a brute force approach but it only works for
 # [2,4,3] [5,6,4] Output [7,0,8] since carry logic mentioned is not used properly
 
 

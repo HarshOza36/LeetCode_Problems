@@ -14,6 +14,7 @@ Below are the questions links with solution links
 |151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P151%20-%20reverseWordsInString.py)|
 |168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P168%20-%20excelSheetColumnTitle.py)|
 |205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P205%20-%20isomorphicString.py)|
+|242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution]()|
 |344. [Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P344%20-%20reverseString.py)|
 |451. [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P451%20-%20sortCharactersByFrequency.py)|
 |709. [To Lower case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P709%20-%20toLowerCase.py)|

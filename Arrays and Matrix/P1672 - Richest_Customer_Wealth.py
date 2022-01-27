@@ -4,10 +4,11 @@ class Solution(object):
         :type accounts: List[List[int]]
         :rtype: int
         """
-        wealths = []
-        for cust in accounts:
-            cust_wealth = sum(cust)
-            wealths.append(cust_wealth)
-        return max(wealths)
-                
-                
+        #wealths = []
+        #for cust in accounts:
+        #    cust_wealth = sum(cust)
+        #    wealths.append(cust_wealth)
+        #return max(wealths)
+
+       # One liner         
+       return max([sum(cust) for cust in accounts])

@@ -45,3 +45,5 @@ Below are the questions links with solution links
 |1913. [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1913%20-%20maxProductDiffBetweenTwoPairs.py)|
 |1920. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1920%20-%20buildArrayFromPermutation.py)|
 |1929. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1929%20-%20concatenationOfArr.py)|
+|2011. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)|[Solution]()|
+|2114. [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)|[Solution]()|

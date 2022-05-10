@@ -5,19 +5,24 @@ Below are the questions links with solution links
 |Problem Number|Solution|
 |--------------|--------|
 |03. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P03%20-%20longestSubstrngWithoutRepeatingChars.py)|
+|05. [Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring)|[Solution]()|
 |12. [Integer To Roman](https://leetcode.com/problems/integer-to-roman)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P12%20-%20intergerToRoman.py)|
 |13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P13%20-%20romanToInteger.py)|
 |20. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P20%20-%20validParenthesis.py)|
 |28. [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P28%20-%20implementstrStr().py)|
+|49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution]()|
 |58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P58%20-%20lengthofLastWord.py)|
 |125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P125%20-%20validPalindrome.py)|
 |151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P151%20-%20reverseWordsInString.py)|
 |168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P168%20-%20excelSheetColumnTitle.py)|
+|171. []()|[Solution]()|
 |205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P205%20-%20isomorphicString.py)|
 |242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P242%20-%20validAnagram.py)|
 |344. [Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P344%20-%20reverseString.py)|
 |451. [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P451%20-%20sortCharactersByFrequency.py)|
+|567. []()|[Solution]()|
 |709. [To Lower case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P709%20-%20toLowerCase.py)|
+|763. [Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution]()|
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|
 |848. [Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P848%20-%20shiftingLetters.py)|
 |917. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P917%20-%20reverseOnlyLetters.py)|

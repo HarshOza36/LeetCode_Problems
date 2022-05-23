@@ -2,7 +2,7 @@
 Below are the questions links with solution links
 
 
-|Problem Number|Solution|d
+|Problem Number|Solution|
 |--------------|--------|
 |94. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P94%20-%20binaryTreeInorderTraversal.py)|
 |98. [Validate Binary Search tree](https://leetcode.com/problems/validate-binary-search-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P98%20-%20validateBinarySearchTree.py)|

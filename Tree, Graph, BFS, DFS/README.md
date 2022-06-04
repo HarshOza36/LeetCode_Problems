@@ -17,7 +17,7 @@ Below are the questions links with solution links
 |437. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P437%20-%20pathSum_III.py)|
 |463. [Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P463%20-%20islandPerimeter.py)|
 |543. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P543%20-%20diameterOfBinaryTree.py)|
-|617. []()|[Solution]()|
+|617. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P617%20-%20mergeTwoBinaryTrees.py)|
 |653. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P653%20-%20TwoSumIV_InputIsBST.py)|
 |700. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P700%20-%20SearchInBST.py)|
 |701. [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P701%20-%20insertIntoABinarySearchTree.py)|

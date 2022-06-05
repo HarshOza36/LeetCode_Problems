@@ -13,15 +13,15 @@ Below are the questions links with solution links
 |48. [Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P48%20-%20rotateImage.py)|
 |54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P54%20-%20spiralMatrix.py)|
 |66. [Plus One](https://leetcode.com/problems/plus-one)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P66%20-%20PlusOne.py)|
-|73. []()|[Solution]()|
-|74. []()|[Solution]()|
+|73. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P73%20-%20setMatrixZeroes.py)|
+|74. [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P74%20-%20searchA2dMatrix.py)|
 |75. [Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P75%20-%20sortColors.py)|
 |84. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P84%20-%20largestRectangleInHistogram.py)|
-|88. []()|[Solution]()|
+|88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P88%20-%20mergeSortedArray.py)|
 |153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P153%20-%20findMinInRotatedSortedArray.py)|
 |154. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P154%20-%20findMinInRotatedSortedArray_II.py)|
 |167. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P167%20-%20twoSum_II_InputArrayIsSorted.py)|
-|209. []()|[Solution]()|
+|209. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P209%20-%20minimumSizeSubarraySum.py)|
 |217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P217%20-%20containsDuplicate.py)|
 |189. [Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P189%20-%20rotateArray.py)|
 |238. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P238%20-%20productOfArrayExceptSelf.py)|
@@ -33,30 +33,30 @@ Below are the questions links with solution links
 |485. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P485%20-%20maxConsecutiveOnes.py)|
 |496. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P496%20-%20nextGreaterElement_I.py)|
 |598. [Range Addition II](https://leetcode.com/problems/range-addition-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P598%20-%20RangeAdditionII.py)|
-|682. []()|[Solution]()|
-|744. []()|[Solution]()|
+|682. [Baseball Game](https://leetcode.com/problems/baseball-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P682%20-%20baseballGame.py)|
+|744. [Find the smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P744%20-%20findSmallestLetterGreaterThanTarget.py)|
 |912. [Sort an Array](https://leetcode.com/problems/sort-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P912%20-%20sortAnArray.py)|
 |922. [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P922%20-%20sortArrayByParity_II.py)|
 |977. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P977%20-%20squaresofaSortedArray.py)|
 |1207. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1207%20-%20uniqueNumberofOccurrences.py)|
 |1275. [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1275%20-%20findWinneronTicTacToeGame.py)|
 |1282. [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1282%20-%20groupThePeopleGiventheGroupSizeTheyBelongTo.py)|
-|1337. []()|[Solution]()|
+|1337. [The K weakest Rows in a matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1337%20-%20TheKWeakestRowsInaMatrix.py)|
 |1346. [Check if N and its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1346%20-%20checkIfNandItsDoubleExist.py)|
-|1351. []()|[Solution]()|
+|1351. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1351%20-%20countNegativeNumbersInASortedMatrix.py)|
 |1365. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1365%20-%20howManyNumbersAreSmallerThantheCurrentNumber.py)|
-|1385. []()|[Solution]()|
+|1385. [Find the distance value between two arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1385%20-%20findtheDistanceValueBetweenTwoArrays.py)|
 |1413. [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1413%20-%20minimumValueToGetPositiveStepByStepSum.py)|
 |1431. [Kids with Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1431%20-%20Kids_withGreatestNoofCandies.py)|
 |1470. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1470%20-%20Shuffle_the_Array.py)|
-|1475. []()|[Solution]()|
+|1475. [Final Prices with a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1475%20-%20finalPricesWithASpecialDiscountInAShop.py)|
 |1476. [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1476%20-%20subrectangleQueries.py)|
 |1480. [Running Sum of 1-d Array](https://leetcode.com/problems/running-sum-of-1d-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1480%20-%20RunningSum.py)|
-|1502. []()|[Solution]()|
+|1502. [Can make Arithmetic Progression from Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1502%20-%20canMakeArithmeticProgressionFromSequence.py)|
 |1672. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1672%20-%20Richest_Customer_Wealth.py)|
-|1539. []()|[Solution]()|
+|1539. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1539%20-%20kthMissingPositiveNumber.py)|
 |1833. [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1833%20-%20maximumIcecreamBars.py)|
-|1608. []()|[Solution]()|
+|1608. [Special Array with X elements greater than or equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1608%20-%20specialArrayWithXElementsGreaterThanOrEqualX.py)|
 |1909. [Remove one element to make the array strictly increasing ](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1909%20-%20RemoveOneElementtoMaketheArrayStrictlyIncreasing.py)|
 |1913. [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1913%20-%20maxProductDiffBetweenTwoPairs.py)|
 |1920. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1920%20-%20buildArrayFromPermutation.py)|

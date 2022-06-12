@@ -36,10 +36,10 @@ Below are the questions links with solution links
 |682. [Baseball Game](https://leetcode.com/problems/baseball-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P682%20-%20baseballGame.py)|
 |744. [Find the smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P744%20-%20findSmallestLetterGreaterThanTarget.py)|
 |912. [Sort an Array](https://leetcode.com/problems/sort-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P912%20-%20sortAnArray.py)|
-|921. []()|[Solution]()|
+|921. [Minimum Add to make Parenthesis Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P921%20-%20minimumAddToMakeParenthesisValid.py)|
 |922. [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P922%20-%20sortArrayByParity_II.py)|
 |977. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P977%20-%20squaresofaSortedArray.py)|
-|1111. []()|[Solution]()|
+|1111. [Maximum Nesting Depth of Two Valid Parenthesis Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1111%20-%20maximumNestingDepthOfTwoValidParenthesisStrings.py)|
 |1207. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1207%20-%20uniqueNumberofOccurrences.py)|
 |1275. [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1275%20-%20findWinneronTicTacToeGame.py)|
 |1282. [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1282%20-%20groupThePeopleGiventheGroupSizeTheyBelongTo.py)|
@@ -55,10 +55,10 @@ Below are the questions links with solution links
 |1476. [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1476%20-%20subrectangleQueries.py)|
 |1480. [Running Sum of 1-d Array](https://leetcode.com/problems/running-sum-of-1d-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1480%20-%20RunningSum.py)|
 |1502. [Can make Arithmetic Progression from Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1502%20-%20canMakeArithmeticProgressionFromSequence.py)|
-|1658. []()|[Solution]()|
+|1658. [Minimum Operations To reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1658%20-%20minimumOperationsToReduceXToZero.py)|
 |1672. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1672%20-%20Richest_Customer_Wealth.py)|
 |1539. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1539%20-%20kthMissingPositiveNumber.py)|
-|1695. []()|[Solution]()|
+|1695. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1695%20-%20maximumErasureValue.py)|
 |1833. [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1833%20-%20maximumIcecreamBars.py)|
 |1608. [Special Array with X elements greater than or equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1608%20-%20specialArrayWithXElementsGreaterThanOrEqualX.py)|
 |1909. [Remove one element to make the array strictly increasing ](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1909%20-%20RemoveOneElementtoMaketheArrayStrictlyIncreasing.py)|

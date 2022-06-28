@@ -9,6 +9,7 @@ Below are the questions links with solution links
 |15. [3Sum](https://leetcode.com/problems/3sum/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P15%20-%203Sum.py)|
 |26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P26%20-%20remove_duplicates_from_sorted_array.py)|
 |27. [Remove Element](https://leetcode.com/problems/remove-element)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P27%20-%20removeElement.py)|
+|34. []()|[Solution]()|
 |36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P36%20-%20validSudoku.py)|
 |48. [Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P48%20-%20rotateImage.py)|
 |54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P54%20-%20spiralMatrix.py)|
@@ -22,6 +23,7 @@ Below are the questions links with solution links
 |154. [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P154%20-%20findMinInRotatedSortedArray_II.py)|
 |167. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P167%20-%20twoSum_II_InputArrayIsSorted.py)|
 |209. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P209%20-%20minimumSizeSubarraySum.py)|
+|215. []()|[Solution]()|
 |217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P217%20-%20containsDuplicate.py)|
 |189. [Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P189%20-%20rotateArray.py)|
 |238. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P238%20-%20productOfArrayExceptSelf.py)|
@@ -34,6 +36,7 @@ Below are the questions links with solution links
 |496. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P496%20-%20nextGreaterElement_I.py)|
 |598. [Range Addition II](https://leetcode.com/problems/range-addition-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P598%20-%20RangeAdditionII.py)|
 |682. [Baseball Game](https://leetcode.com/problems/baseball-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P682%20-%20baseballGame.py)|
+|724. []()|[Solution]()|
 |744. [Find the smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P744%20-%20findSmallestLetterGreaterThanTarget.py)|
 |912. [Sort an Array](https://leetcode.com/problems/sort-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P912%20-%20sortAnArray.py)|
 |921. [Minimum Add to make Parenthesis Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P921%20-%20minimumAddToMakeParenthesisValid.py)|
@@ -55,6 +58,7 @@ Below are the questions links with solution links
 |1476. [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1476%20-%20subrectangleQueries.py)|
 |1480. [Running Sum of 1-d Array](https://leetcode.com/problems/running-sum-of-1d-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1480%20-%20RunningSum.py)|
 |1502. [Can make Arithmetic Progression from Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1502%20-%20canMakeArithmeticProgressionFromSequence.py)|
+|1642. []()|[Solution]()|
 |1658. [Minimum Operations To reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1658%20-%20minimumOperationsToReduceXToZero.py)|
 |1672. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1672%20-%20Richest_Customer_Wealth.py)|
 |1539. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P1539%20-%20kthMissingPositiveNumber.py)|

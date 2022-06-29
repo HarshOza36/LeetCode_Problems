@@ -13,7 +13,7 @@ Below are the questions links with solution links
 |224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P224%20-%20basicCalculator.py)|
 |231. [Power of Two](https://leetcode.com/problems/power-of-two)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P231%20-%20powerOfTwo.py)|
 |367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P367%20-%20validPerfectSquare.py)|
-|441. []()|[Solution]()|
+|441. [Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P441%20-%20arrangingCoins.py)|
 |537. [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P537%20-%20complexNumberMultiplication.py)|
 |633. [Sum of Square numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P633%20-%20sumOfSquareNumbers.py)|
 |728. [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P728%20-%20selfDividingNumber.py)|

@@ -10,15 +10,16 @@ The problem types not listed here are covered in Misc Folder.
 |--------------|--------|
 |Arrays and Matrix|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/README.md#leetcode-problems-on-arrays-and-matrix)|
 |Backtracking|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/BackTracking#leetcode-problems-on-backtracking)|
+|Bit Manipulation|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Bit%20Manipulation#leetcode-problems-on-bit-manipulation)|
 |Concurrency|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Concurrency#leetcode-problems-on-concurrency)|
 |Database|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Database#leetcode-problems-on-database)|
 |Design|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Design#leetcode-problems-on-design)|
 |Dynamic Programming|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Dynamic%20Programming#leetcode-problems-on-dynamic-programming)|
-|Graph, BFS, DFS|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Graph,%20BFS,%20DFS/README.md#leetcode-problems-on-graph-bfs-dfs)|
 |Linked Lists|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Linked%20List#leetcode-problems-on-linked-list)|
 |Math|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Math#leetcode-problems-on-math)|
 |Misc|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Misc)|
 |Shell|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Shell#leetcode-problems-on-shell)|
 |Strings|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/String#leetcode-problems-on-strings)|
-|Trees|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Tree#leetcode-problems-on-tree)|
+|Tree Graph BFS DFS|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS#leetcode-problems-on-tree-graph-bfs-dfs)|
+|Trie|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Shell#leetcode-problems-on-trie)|
 

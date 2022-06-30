@@ -26,4 +26,4 @@ Below are the questions links with solution links
 |1048. [Longest String Chain](https://leetcode.com/problems/longest-string-chain)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1048%20-%20LongestStringChain.py)|
 |1137. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1137%20-%20nthTribonacciNumber.py)|
 |1143. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1143%20-%20longestCommonSubsequence.py)|
-|1493. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution]()|
+|1493. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1493%20-%20longestSubarrayOf1sAfterDeletingOneElement.py)|

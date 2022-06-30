@@ -19,14 +19,18 @@ Below are the questions links with solution links
 |205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P205%20-%20isomorphicString.py)|
 |242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P242%20-%20validAnagram.py)|
 |344. [Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P344%20-%20reverseString.py)|
+|392. [Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Solution]()|
+|443. [String Compression](https://leetcode.com/problems/string-compression/)|[Solution]()|
 |451. [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P451%20-%20sortCharactersByFrequency.py)|
 |567. [Permutation In string](https://leetcode.com/problems/permutation-in-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P567%20-%20permutationInString.py)|
 |709. [To Lower case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P709%20-%20toLowerCase.py)|
 |763. [Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P763%20-%20partitionLabels.py)|
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|
+|844. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Solution]()|
 |848. [Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P848%20-%20shiftingLetters.py)|
 |917. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P917%20-%20reverseOnlyLetters.py)|
 |929. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P929%20-%20uniqueEmailAddresses.py)|
+|1021. [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses)|[Solution]()|
 |1044. [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1044%20-%20longestDuplicateSubstring.py)|
 |1047. [Remove all Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1047%20-%20RemoveAllAdjacentDuplicatesInAString.py)|
 |1108. [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1108%20-%20Defanging%20an%20IP%20address.py)|
@@ -36,7 +40,9 @@ Below are the questions links with solution links
 |1332. [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1332%20-%20removePalindromicSubsequence.py)|
 |1528. [Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1528%20-%20Shuffle%20String.py)|
 |1592. [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1592%20-%20rearrangeSpacesBetweenWords.py)|
+|1614. [Maximum Nesting Depth of the Parenthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)|[Solution]()|
 |1624. [Largest Substring between two equal characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1624%20-%20largestSubstringBetweenTwoEqualCharacters.py)|
+|1647. [Minimum Deletions to Make Character Frequency Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[Solution]()|
 |1678. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1678%20-%20goalParserInterpretation.py)|
 |1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1689%20-%20partitioningIntoMinimumNumberOfDeciBinaryNo.py)|
 |1769. [ Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1769%20-%20minimumNumberofOperationstoMoveAllBallstoEachBox.py)|

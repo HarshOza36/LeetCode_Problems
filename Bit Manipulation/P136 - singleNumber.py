@@ -4,15 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        # for i in nums:
-        #     if(nums.count(i) == 1):
-        #         return i
-        # Above approach was superslow
-        # By using XOR now
-        single = 0
-        for i in range(len(nums)):
-            single = single^nums[i]
-        return single
+        # Bit manipulation O(n) time O(1) space
+        ans = 0
+        for n in nums:
+            ans ^= n
+        return ans
         
-        # Found the below solution in discussions
+        # Found the below math solution in discussions but O(n) time and space
         # return 2*sum(set(nums))-sum(nums)

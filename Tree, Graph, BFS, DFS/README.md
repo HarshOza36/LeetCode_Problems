@@ -13,7 +13,7 @@ Below are the questions links with solution links
 |145. [Binary Tree PostorderTraversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P145%20-%20binaryTreePostorderTraversal.py)|
 |222. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P222%20-%20countCompleteTreeNodes.py)|
 |226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P226%20-%20invertBinaryTree.py)|
-|323. []()|[Solution]()|
+|323. [Number of connected components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P323%20-%20numberOfConnectedComponentsInAnUndirectedGraph.py)|
 |404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P404%20-%20sumOfLeftLeaves.py)|
 |437. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P437%20-%20pathSum_III.py)|
 |463. [Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P463%20-%20islandPerimeter.py)|
@@ -30,5 +30,5 @@ Below are the questions links with solution links
 |1293. [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1293%20-%20shortestPathInGridwithObstaclesElimination.py)|
 |1302. [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1302%20-%20deepestLeavesSum.py)|
 |1379. [Find A corresponding node of a binary tree in a clone of that tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1379%20-%20findACorrespondingNodeofaBinaryTreeinaCloneofThatTree.py)|
-|1791. []()|[Solution]()|
-|1971. []()|[Solution]()|
+|1791. [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1791%20-%20findCenterOfStarGraph.py)|
+|1971. [Find If path exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1971%20-%20findIfPathExistsInGraph.py)|

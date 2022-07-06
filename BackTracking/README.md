@@ -5,7 +5,7 @@ Below are the questions links with solution links
 |Problem Number|Solution|
 |--------------|--------|
 |17. [Letter Combination of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P17%20-%20letterCombinationOfAPhoneNumber.py)|
-|22. [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses)|[Solution]()|
+|22. [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P22%20-%20generateParenthesis.py)|
 |37. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P37%20-%20sudokuSolver.py)|
 |46. [Permutations](https://leetcode.com/problems/permutations)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P46%20-%20permutations.py)|
 |78. [Subsets](https://leetcode.com/problems/subsets)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P78%20-%20subsets.py)|

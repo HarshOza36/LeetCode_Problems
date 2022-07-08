@@ -39,7 +39,7 @@ Below are the questions links with solution links
 |598. [Range Addition II](https://leetcode.com/problems/range-addition-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P598%20-%20RangeAdditionII.py)|
 |682. [Baseball Game](https://leetcode.com/problems/baseball-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P682%20-%20baseballGame.py)|
 |724. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P724%20-%20findPivotIndex.py)|
-|739. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution]()|
+|739. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P739%20-%20dailyTemperatures.py)|
 |744. [Find the smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P744%20-%20findSmallestLetterGreaterThanTarget.py)|
 |912. [Sort an Array](https://leetcode.com/problems/sort-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P912%20-%20sortAnArray.py)|
 |921. [Minimum Add to make Parenthesis Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P921%20-%20minimumAddToMakeParenthesisValid.py)|

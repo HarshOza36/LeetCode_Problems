@@ -6,7 +6,7 @@ Below are the questions links with solution links
 |--------------|--------|
 |53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P53%20-%20maximumSubarray.py)|
 |55. [Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P55%20-%20jumpGame.py)|
-|62. [Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution]()|
+|62. [Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P62%20-%20uniquePaths.py)|
 |70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P70%20-%20climbingStairs.py)|
 |97. [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P97%20-%20interleavingString.py)|
 |118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P118%20-%20pascal'sTriangle.py)|
@@ -23,12 +23,12 @@ Below are the questions links with solution links
 |509. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P509%20-%20fibonacciNumber.py)|
 |583. [Delete Operations for two strings](https://leetcode.com/problems/delete-operation-for-two-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P583%20-%20deleteOperationForTwoStrings.py)|
 |647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P647%20-%20palindromicSubstrings.py)|
-|746. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution]()|
+|746. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P746%20-%20minCostClimbingStairs.py)|
 |926. [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P926%20-%20flipStringToMonotoneIncreasing.py)|
 |978. [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P978%20-%20longestTurbulentSubarray.py)|
 |1025. [Divisor Game](https://leetcode.com/problems/divisor-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1025%20-%20divisorGame.py)|
 |1048. [Longest String Chain](https://leetcode.com/problems/longest-string-chain)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1048%20-%20LongestStringChain.py)|
 |1137. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1137%20-%20nthTribonacciNumber.py)|
 |1143. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1143%20-%20longestCommonSubsequence.py)|
-|1473. [Paint House III](https://leetcode.com/problems/paint-house-iii/)|[Solution]()|
+|1473. [Paint House III](https://leetcode.com/problems/paint-house-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1473%20-%20paintHouse_III.py)|
 |1493. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1493%20-%20longestSubarrayOf1sAfterDeletingOneElement.py)|

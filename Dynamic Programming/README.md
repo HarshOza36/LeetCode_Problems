@@ -7,7 +7,7 @@ Below are the questions links with solution links
 |53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P53%20-%20maximumSubarray.py)|
 |55. [Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P55%20-%20jumpGame.py)|
 |70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P70%20-%20climbingStairs.py)|
-|97. [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Solution]()|
+|97. [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P97%20-%20interleavingString.py)|
 |118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P118%20-%20pascal'sTriangle.py)|
 |119. [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P119%20-%20pascal'sTriangleII.py)|
 |120. [Triangle](https://leetcode.com/problems/triangle/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P120%20-%20triangle.py)|
@@ -21,7 +21,7 @@ Below are the questions links with solution links
 |354. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P354%20-%20russionDollEnvelopes.py)|
 |509. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P509%20-%20fibonacciNumber.py)|
 |583. [Delete Operations for two strings](https://leetcode.com/problems/delete-operation-for-two-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P583%20-%20deleteOperationForTwoStrings.py)|
-|647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Solution]()|
+|647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P647%20-%20palindromicSubstrings.py)|
 |926. [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P926%20-%20flipStringToMonotoneIncreasing.py)|
 |978. [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P978%20-%20longestTurbulentSubarray.py)|
 |1025. [Divisor Game](https://leetcode.com/problems/divisor-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1025%20-%20divisorGame.py)|

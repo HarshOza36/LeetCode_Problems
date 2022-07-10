@@ -30,7 +30,7 @@ Below are the questions links with solution links
 |238. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P238%20-%20productOfArrayExceptSelf.py)|
 |240. [Search A 2d Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P240%20-%20searchA2dMatrix_II.py)|
 |283. [Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P283%20-%20%20moveZeros.py)|
-|347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution]()|
+|347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P347%20-%20topKFrequentElements.py)|
 |350. [Intersection of Two Arrays_II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P350%20-%20intersectionOfTwoArrays_II.py)|
 |406. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P406%20-%20queueReconstructionByHeight.py)|
 |414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/P414%20-%20thirdMaximumNumber.py)|

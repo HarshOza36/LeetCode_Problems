@@ -12,7 +12,7 @@ Below are the questions links with solution links
 |130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P130%20-%20surroundedRegions.py)|
 |144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P144%20-%20binaryTreePreorderTraversal.py)|
 |145. [Binary Tree PostorderTraversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P145%20-%20binaryTreePostorderTraversal.py)|
-|199. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution]()|
+|199. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P199%20-%20binaryTreeRightSideView.py)|
 |200. [Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P200%20-%20numberOfIslands.py)|
 |222. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P222%20-%20countCompleteTreeNodes.py)|
 |226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P226%20-%20invertBinaryTree.py)|

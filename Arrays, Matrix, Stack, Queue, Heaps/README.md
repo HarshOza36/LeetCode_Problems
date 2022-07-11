@@ -1,4 +1,4 @@
-# LeetCode Problems on Arrays and Matrix
+# LeetCode Problems on Arrays, Matrix, Stack, Queue, Heaps
 Below are the questions links with solution links
 
 

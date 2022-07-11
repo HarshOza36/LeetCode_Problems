@@ -8,7 +8,7 @@ The problem types not listed here are covered in Misc Folder.
 
 |Problem Type|Solutions|
 |--------------|--------|
-|Arrays and Matrix|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%20and%20Matrix/README.md#leetcode-problems-on-arrays-and-matrix)|
+|Arrays Matrix Stack Queue Heaps|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/README.md#leetcode-problems-on-arrays-matrix-stack-queue-heaps)|
 |Backtracking|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/BackTracking#leetcode-problems-on-backtracking)|
 |Bit Manipulation|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Bit%20Manipulation#leetcode-problems-on-bit-manipulation)|
 |Concurrency|[ReadME](https://github.com/HarshOza36/LeetCode_Problems/tree/main/Concurrency#leetcode-problems-on-concurrency)|

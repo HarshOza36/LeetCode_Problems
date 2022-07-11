@@ -18,9 +18,13 @@ Below are the questions links with solution links
 |171. [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P171%20-%20excelSheetColumnNumber.py)|
 |205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P205%20-%20isomorphicString.py)|
 |242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P242%20-%20validAnagram.py)|
+|299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Solution]()|
 |344. [Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P344%20-%20reverseString.py)|
 |392. [Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P392%20-%20isSubsequence.py)|
+|394. [Decode String](https://leetcode.com/problems/decode-string/)|[Solution]()|
 |409. [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P409%20-%20longestPalindrome.py)|
+|424. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution]()|
+|438. [Find All Anagrams in A String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution]()|
 |443. [String Compression](https://leetcode.com/problems/string-compression/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P443%20-%20stringCompression.py)|
 |451. [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P451%20-%20sortCharactersByFrequency.py)|
 |567. [Permutation In string](https://leetcode.com/problems/permutation-in-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P567%20-%20permutationInString.py)|

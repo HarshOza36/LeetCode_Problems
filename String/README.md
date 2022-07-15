@@ -12,6 +12,7 @@ Below are the questions links with solution links
 |28. [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P28%20-%20implementstrStr().py)|
 |49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P49%20-%20groupAnagrams.py)|
 |58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P58%20-%20lengthofLastWord.py)|
+|76. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution]()|
 |125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P125%20-%20validPalindrome.py)|
 |151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P151%20-%20reverseWordsInString.py)|
 |168. [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P168%20-%20excelSheetColumnTitle.py)|
@@ -28,6 +29,7 @@ Below are the questions links with solution links
 |443. [String Compression](https://leetcode.com/problems/string-compression/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P443%20-%20stringCompression.py)|
 |451. [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P451%20-%20sortCharactersByFrequency.py)|
 |567. [Permutation In string](https://leetcode.com/problems/permutation-in-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P567%20-%20permutationInString.py)|
+|657. [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution]()|
 |692. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P692%20-%20topKFrequentWords.py)|
 |709. [To Lower case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P709%20-%20toLowerCase.py)|
 |763. [Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P763%20-%20partitionLabels.py)|

@@ -9,7 +9,9 @@ Below are the questions links with solution links
 |100. [Same Tree](https://leetcode.com/problems/same-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P100%20-%20sameTree.py)|
 |102. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P102%20-%20binaryTreeLevelOrderTraversal.py)|
 |104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P104%20-%20maxDepthofBinaryTree.py)|
+|105. [Construct Binary Tree from Preorder and Inorder Traversal]([https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Solution]()|
 |130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P130%20-%20surroundedRegions.py)|
+|133. [Clone Graph](https://leetcode.com/problems/clone-graph)|[Solution]()|
 |144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P144%20-%20binaryTreePreorderTraversal.py)|
 |145. [Binary Tree PostorderTraversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P145%20-%20binaryTreePostorderTraversal.py)|
 |199. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P199%20-%20binaryTreeRightSideView.py)|
@@ -20,22 +22,31 @@ Below are the questions links with solution links
 |235. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P235%20-%20lowestCommonAncestorOfABinarySearchTree.py)|
 |323. [Number of connected components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P323%20-%20numberOfConnectedComponentsInAnUndirectedGraph.py)|
 |404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P404%20-%20sumOfLeftLeaves.py)|
+|417. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|[Solution]()|
 |437. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P437%20-%20pathSum_III.py)|
 |463. [Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P463%20-%20islandPerimeter.py)|
 |543. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P543%20-%20diameterOfBinaryTree.py)|
+|547. [Number of Provinces](https://leetcode.com/problems/number-of-provinces)|[Solution]()|
 |589. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P589%20-%20n_aryTreePreorderTraversal.py)|
 |617. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P617%20-%20mergeTwoBinaryTrees.py)|
 |653. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P653%20-%20TwoSumIV_InputIsBST.py)|
+|684. [Redundant Connection](https://leetcode.com/problems/redundant-connection)|[Solution]()|
 |700. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P700%20-%20SearchInBST.py)|
+|695. [Max Area of Island](https://leetcode.com/problems/max-area-of-island)|[Solution]()|
 |701. [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P701%20-%20insertIntoABinarySearchTree.py)|
 |733. [Flood Fill](https://leetcode.com/problems/flood-fill)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P733%20-%20floodFill.py)|
+|785. [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)|[Solution]()|
+|797. [All paths from source to Target](https://leetcode.com/problems/all-paths-from-source-to-target)|[Solution]()|
 |897. [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P897%20-%20increasingOrderSearchTree.py)|
+|841. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|[Solution]()|
 |938. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P938%20-%20rangeSumOfBST.py)|
+|959. [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)|[Solution]()|
 |993. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P993%20-%20cousinsInBinaryTree.py)|
 |994. [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P994%20-%20rottingOranges.py)|
 |1008. [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1008%20-%20constructBinarySearchTreeFromPreorderTraversal.py)|
 |1293. [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1293%20-%20shortestPathInGridwithObstaclesElimination.py)|
 |1302. [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1302%20-%20deepestLeavesSum.py)|
 |1379. [Find A corresponding node of a binary tree in a clone of that tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1379%20-%20findACorrespondingNodeofaBinaryTreeinaCloneofThatTree.py)|
+|1557. [Minimum Number of Vertices to reach all nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes)|[Solution]()|
 |1791. [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1791%20-%20findCenterOfStarGraph.py)|
 |1971. [Find If path exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P1971%20-%20findIfPathExistsInGraph.py)|

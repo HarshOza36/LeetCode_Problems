@@ -8,7 +8,7 @@ Below are the questions links with solution links
 |05. [Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P05%20-%20longestPalindromicString.py)|
 |12. [Integer To Roman](https://leetcode.com/problems/integer-to-roman)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P12%20-%20intergerToRoman.py)|
 |13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P13%20-%20romanToInteger.py)|
-|14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution]()|
+|14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P14%20-%20longestCommonPrefix.py)|
 |20. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P20%20-%20validParenthesis.py)|
 |28. [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P28%20-%20implementstrStr().py)|
 |49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P49%20-%20groupAnagrams.py)|
@@ -35,7 +35,7 @@ Below are the questions links with solution links
 |709. [To Lower case](https://leetcode.com/problems/to-lower-case)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P709%20-%20toLowerCase.py)|
 |763. [Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P763%20-%20partitionLabels.py)|
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|
-|792. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)|[Solution]()|
+|792. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P792%20-%20numberOfMatchingSubsequences.py)|
 |844. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P844%20-%20backspaceStringCompare.py)|
 |848. [Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P848%20-%20shiftingLetters.py)|
 |917. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P917%20-%20reverseOnlyLetters.py)|

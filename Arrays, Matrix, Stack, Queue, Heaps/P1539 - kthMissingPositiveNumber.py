@@ -4,7 +4,7 @@ class Solution:
         # l = 0
         # r = len(arr)
         # i = 1 # the integer values start from one
-        # ans = 0
+        # res = 0
         # while k:
         #     if(l < r):
         #         if(i == arr[l]): # for the first time If first one is 1

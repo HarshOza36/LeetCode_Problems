@@ -11,6 +11,7 @@ Below are the questions links with solution links
 |24. [Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P24%20-%20swapNodesInPairs.py)|
 |83. [Remove Duplicates from Sorted Linked list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P83%20-%20removeDuplicatesFromSortedList.py)|
 |86. [Partition List](https://leetcode.com/problems/partition-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P86%20-%20partitionList.py)|
+|92. [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|[Solution]()|
 |141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P141%20-%20linkedListCycle.py)|
 |142. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P142%20-%20linkedListCycle_II.py)|
 |143. [Reorder List](https://leetcode.com/problems/reorder-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P143%20-%20reorderList.py)|

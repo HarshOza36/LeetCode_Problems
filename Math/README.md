@@ -10,6 +10,7 @@ Below are the questions links with solution links
 |43. [Multiply Strings](https://leetcode.com/problems/multiply-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P43%20-%20MultiplyStrings.py)|
 |50. [Pow (x,n)](https://leetcode.com/problems/powx-n)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P50%20-%20Pow(x%2Cn).py)|
 |69. [Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P69%20-%20sqrt(x).py)|
+|202. [Happy Number](https://leetcode.com/problems/happy-number/)|[Solution]()|
 |224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P224%20-%20basicCalculator.py)|
 |231. [Power of Two](https://leetcode.com/problems/power-of-two)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P231%20-%20powerOfTwo.py)|
 |367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P367%20-%20validPerfectSquare.py)|

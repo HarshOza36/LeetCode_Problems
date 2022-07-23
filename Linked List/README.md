@@ -15,10 +15,12 @@ Below are the questions links with solution links
 |141. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P141%20-%20linkedListCycle.py)|
 |142. [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P142%20-%20linkedListCycle_II.py)|
 |143. [Reorder List](https://leetcode.com/problems/reorder-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P143%20-%20reorderList.py)|
+|148. [Sort List](https://leetcode.com/problems/sort-list/)|[Solution]()|
 |160. [Intersection of Two Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P160%20-%20intersectionOfTwoLinkedLists.py)|
 |206. [Reverse a Linked list](https://leetcode.com/problems/reverse-linked-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P206%20-%20reverseLinkedList.py)|
 |234. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P234%20-%20palindromeLinkedList.py)|
 |237. [Delete Node from Linked list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P237%20-%20deleteNodeInLinkedList.py)|
+|328. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Solution]()|
 |430. [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P430%20-%20flattenAmultilevelDoublyLinkedList.py)|
 |876. [Middle of the list](https://leetcode.com/problems/middle-of-the-linked-list)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P876%20-%20middleoftheLinkedList.py)|
 |1290. [Convert Binary Numbers in a linked list to integers](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Linked%20List/P1290%20-%20convertBinNoinLinkedListToINT.py)|

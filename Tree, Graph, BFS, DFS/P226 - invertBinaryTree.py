@@ -12,3 +12,13 @@ class Solution:
         self.invertTree(root.right)
         root.left, root.right = root.right, root.left
         return root
+        
+        # Iterative just for fun
+#         stack = [root]
+#         while stack:
+#             n = stack.pop()
+#             n.left, n.right = n.right, n.left
+#             if n.left: stack.append(n.left)
+#             if n.right: stack.append(n.right)
+#         return root
+        

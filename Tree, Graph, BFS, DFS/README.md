@@ -10,6 +10,7 @@ Below are the questions links with solution links
 |102. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P102%20-%20binaryTreeLevelOrderTraversal.py)|
 |104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P104%20-%20maxDepthofBinaryTree.py)|
 |105. [Construct Binary Tree from Preorder and Inorder Traversal]([https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P105%20-%20constructBinaryTreeFromPreorderAndInorderTraversal.py)|
+|110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution]()|
 |130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P130%20-%20surroundedRegions.py)|
 |133. [Clone Graph](https://leetcode.com/problems/clone-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P133%20-%20cloneGraph.py)|
 |144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P144%20-%20binaryTreePreorderTraversal.py)|
@@ -39,6 +40,7 @@ Below are the questions links with solution links
 |797. [All paths from source to Target](https://leetcode.com/problems/all-paths-from-source-to-target)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P797%20-%20allPathsFromSourceToTarget.py)|
 |841. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P841%20-%20keysAndRooms.py)|
 |897. [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P897%20-%20increasingOrderSearchTree.py)|
+|924. [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread)|[Solution]()|
 |938. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P938%20-%20rangeSumOfBST.py)|
 |959. [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P959%20-%20regionsCutBySlashes.py)|
 |993. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P993%20-%20cousinsInBinaryTree.py)|

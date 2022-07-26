@@ -5,6 +5,16 @@
 Use the Solutions links below, which brings you to a Readme file of that problem type for navigating problems easily
 The problem types not listed here are covered in Misc Folder.
 ```
+Also,
+Use Github Feature Preview -  > Command Palette
+To open the command palette:
+```
+    macOS: ⌘ k or ⌘ opt k
+    other: Ctrl k or Ctrl alt k
+```
+Once you open the pallete press```/``` and just start searching the question,
+
+It will find it in the whole repository
 
 |Problem Type|Solutions|
 |--------------|--------|

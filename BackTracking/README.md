@@ -12,6 +12,7 @@ Below are the questions links with solution links
 |51. [N-Queens](https://leetcode.com/problems/n-queens/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P51%20-%20n_Queens.py)|
 |78. [Subsets](https://leetcode.com/problems/subsets)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P78%20-%20subsets.py)|
 |79. [Word Search](https://leetcode.com/problems/word-search)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P79%20-%20wordSearch.py)|
+|90. [Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution]()|
 |282. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P282%20-%20ExpressionAddOperators.py)|
 |473. [Matchsticks To Square](https://leetcode.com/problems/matchsticks-to-square/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P473%20-%20matchsticksToSquare.py)|
 |698. [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P698%20-%20partitionToKEqualSumSubsets.py)|

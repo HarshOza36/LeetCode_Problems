@@ -9,6 +9,7 @@ Below are the questions links with solution links
 |15. [3Sum](https://leetcode.com/problems/3sum/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P15%20-%203Sum.py)|
 |26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P26%20-%20remove_duplicates_from_sorted_array.py)|
 |27. [Remove Element](https://leetcode.com/problems/remove-element)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P27%20-%20removeElement.py)|
+|33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution]()|
 |34. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P34%20-%20findFirstAndLastPositionOfElementInSortedArray.py)|
 |36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P36%20-%20validSudoku.py)|
 |48. [Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P48%20-%20rotateImage.py)|
@@ -17,6 +18,7 @@ Below are the questions links with solution links
 |73. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P73%20-%20setMatrixZeroes.py)|
 |74. [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P74%20-%20searchA2dMatrix.py)|
 |75. [Sort Colors](https://leetcode.com/problems/sort-colors/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P75%20-%20sortColors.py)|
+|81. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Solution]()|
 |84. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P84%20-%20largestRectangleInHistogram.py)|
 |88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P88%20-%20mergeSortedArray.py)|
 |153. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P153%20-%20findMinInRotatedSortedArray.py)|

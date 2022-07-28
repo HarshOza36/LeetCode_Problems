@@ -10,7 +10,12 @@ Below are the questions links with solution links
 |102. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P102%20-%20binaryTreeLevelOrderTraversal.py)|
 |104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P104%20-%20maxDepthofBinaryTree.py)|
 |105. [Construct Binary Tree from Preorder and Inorder Traversal]([https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P105%20-%20constructBinaryTreeFromPreorderAndInorderTraversal.py)|
+|108. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution]()|
 |110. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P110%20-%20balancedBinaryTree.py)|
+|112. [Path Sum](https://leetcode.com/problems/path-sum/)|[Solution]()|
+|113. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Solution]()|
+|114. [Flatten Binary Tree to linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Solution]()|
+|124. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution]()|
 |130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P130%20-%20surroundedRegions.py)|
 |133. [Clone Graph](https://leetcode.com/problems/clone-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P133%20-%20cloneGraph.py)|
 |144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P144%20-%20binaryTreePreorderTraversal.py)|
@@ -21,6 +26,7 @@ Below are the questions links with solution links
 |226. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P226%20-%20invertBinaryTree.py)|
 |230. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P230%20-%20kthSmallestElementInaBST.py)|
 |235. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P235%20-%20lowestCommonAncestorOfABinarySearchTree.py)|
+|236. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|[Solution]()|
 |323. [Number of connected components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P323%20-%20numberOfConnectedComponentsInAnUndirectedGraph.py)|
 |404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P404%20-%20sumOfLeftLeaves.py)|
 |417. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P417%20-%20pacificAtlanticWaterFlow.py)|

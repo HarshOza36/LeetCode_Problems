@@ -15,8 +15,8 @@ Below are the questions links with solution links
 |121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P121%20-%20bestTimeToBuyAndSellStock.py)|
 |122. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P122%20-%20bestTimeToBuyAndSellStock_II.py)|
 |123. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P123%20-%20bestTimeToBuyAndSellStock_III.py)|
-|198. [House Robber](https://leetcode.com/problems/house-robber/)|[Solution]()|
-|213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution]()|
+|198. [House Robber](https://leetcode.com/problems/house-robber/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P198%20-%20houseRobber.py)|
+|213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P213%20-%20houseRobber_II.py)|
 |279. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P279%20-%20perfectSquares.py)|
 |309. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P309%20-%20bestTimetoBuyAndSellStockwithCooldown.py)|
 |322. [Coin Change](https://leetcode.com/problems/coin-change)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P322%20-%20coinChange.py)|

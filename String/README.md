@@ -38,6 +38,7 @@ Below are the questions links with solution links
 |792. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P792%20-%20numberOfMatchingSubsequences.py)|
 |844. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P844%20-%20backspaceStringCompare.py)|
 |848. [Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P848%20-%20shiftingLetters.py)|
+|890. [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Solution]()|
 |917. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P917%20-%20reverseOnlyLetters.py)|
 |929. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P929%20-%20uniqueEmailAddresses.py)|
 |1021. [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1021%20-%20removeOutermostParentheses.py)|

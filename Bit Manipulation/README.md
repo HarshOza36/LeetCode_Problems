@@ -13,6 +13,7 @@ Below are the questions links with solution links
 |461. [Hamming Distance](https://leetcode.com/problems/hamming-distance)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P461%20-%20hammingDistance.py)|
 |782. [Transform to chessboard](https://leetcode.com/problems/transform-to-chessboard/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P782%20-%20transformToChessBoard.py)|
 |1342. [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P1342%20-%20numberOfStepsToReduceANumberToZero.py)|
+|1356. []()|[Solution]()|
 |1486. [XOR Operation In an Array]()https://leetcode.com/problems/xor-operation-in-an-array|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P1486%20-%20XORoperationInAnArray.py)|
 |1720. [Decode XORed Array](https://leetcode.com/problems/decode-xored-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P1720%20-%20decodeXORedArray.py)|
 |1684. [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P1684%20-%20countTheNumberOfConsistentString.py)|

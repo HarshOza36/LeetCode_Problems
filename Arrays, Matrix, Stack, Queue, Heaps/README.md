@@ -14,8 +14,8 @@ Below are the questions links with solution links
 |36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P36%20-%20validSudoku.py)|
 |48. [Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P48%20-%20rotateImage.py)|
 |54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P54%20-%20spiralMatrix.py)|
-|56. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution]()|
-|57. [Insert Interval](https://leetcode.com/problems/insert-interval/)|[Solution]()|
+|56. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P56%20-%20mergeIntervals.py)|
+|57. [Insert Interval](https://leetcode.com/problems/insert-interval/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P57%20-%20insertInterval.py)|
 |66. [Plus One](https://leetcode.com/problems/plus-one)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P66%20-%20PlusOne.py)|
 |73. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P73%20-%20setMatrixZeroes.py)|
 |74. [Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P74%20-%20searchA2dMatrix.py)|
@@ -36,7 +36,7 @@ Below are the questions links with solution links
 |283. [Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P283%20-%20%20moveZeros.py)|
 |347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P347%20-%20topKFrequentElements.py)|
 |350. [Intersection of Two Arrays_II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P350%20-%20intersectionOfTwoArrays_II.py)|
-|378. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution]()|
+|378. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P378%20-%20kthSmallestElementInASortedMatrix.py)|
 |406. [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P406%20-%20queueReconstructionByHeight.py)|
 |414. [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P414%20-%20thirdMaximumNumber.py)|
 |442. [Find all Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P442%20-%20findAllDuplicatesInAnArray.py)|

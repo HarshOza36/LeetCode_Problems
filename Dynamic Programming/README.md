@@ -19,6 +19,7 @@ Below are the questions links with solution links
 |198. [House Robber](https://leetcode.com/problems/house-robber/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P198%20-%20houseRobber.py)|
 |213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P213%20-%20houseRobber_II.py)|
 |279. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P279%20-%20perfectSquares.py)|
+|300. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution]()|
 |309. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P309%20-%20bestTimetoBuyAndSellStockwithCooldown.py)|
 |322. [Coin Change](https://leetcode.com/problems/coin-change)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P322%20-%20coinChange.py)|
 |338. [Counting Bits](https://leetcode.com/problems/counting-bits)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P338%20-%20Counting%20Bits.py)|
@@ -34,6 +35,7 @@ Below are the questions links with solution links
 |1048. [Longest String Chain](https://leetcode.com/problems/longest-string-chain)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1048%20-%20LongestStringChain.py)|
 |1137. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1137%20-%20nthTribonacciNumber.py)|
 |1143. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1143%20-%20longestCommonSubsequence.py)|
+|1220. [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation)|[Solution]()|
 |1473. [Paint House III](https://leetcode.com/problems/paint-house-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1473%20-%20paintHouse_III.py)|
 |1493. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1493%20-%20longestSubarrayOf1sAfterDeletingOneElement.py)|
 |1696. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1696%20-%20jumpGame_VI.py)|

@@ -45,15 +45,33 @@ print(f"New File numbers : {files}")
 
 # Creating new readme content
 new_readme_content = []
-for ids, sentence in enumerate(readme_content):
+# for ids, sentence in enumerate(readme_content):
+ids = 0
+while ids < len(readme_content):
+    sentence = readme_content[ids]
     if(sentence[0] == "|" and regex.match(sentence[1]) != None):
         problem_no = sentence.split(".")[0][1:]
-        if(len(files) != 0):
-            if(int(problem_no) > int(files[0])):
-                index_of_problem = ids
-                new_readme_content.append(f"|{files[0]}. []()|[Solution]()|\n")
-                files.remove(files[0])
-    new_readme_content.append(sentence)
+        if(files and int(problem_no) > int(files[0])):
+            index_of_problem = ids
+            new_readme_content.append(f"|{files[0]}. []()|[Solution]()|\n")
+            
+            files.remove(files[0])
+            # still re checking the curr problem_no > new files[0]
+            # if yes, we will stay on same id
+            if(files and int(problem_no) > int(files[0])):
+                ids -= 1
+                # because in main loop we will do ids += 1 
+            else:
+                # only append line when we are more than the numbers
+                new_readme_content.append(sentence)
+        else:
+           # just append the line if we didnt reach the number
+           new_readme_content.append(sentence)
+    else:
+        # Then it is headers, or empty lines
+        new_readme_content.append(sentence)
+    ids += 1
+
 if(len(files) != 0):
     for i in files:
         new_readme_content.append(f"|{i}. []()|[Solution]()|\n")

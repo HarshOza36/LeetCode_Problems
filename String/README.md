@@ -11,6 +11,7 @@ Below are the questions links with solution links
 |14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P14%20-%20longestCommonPrefix.py)|
 |20. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P20%20-%20validParenthesis.py)|
 |28. [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P28%20-%20implementstrStr().py)|
+|30. [Substring with Concatenation of All Words]()|[Solution]()|
 |49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P49%20-%20groupAnagrams.py)|
 |58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P58%20-%20lengthofLastWord.py)|
 |76. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P76%20-%20minimumWindowSubstring.py)|

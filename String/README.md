@@ -38,13 +38,13 @@ Below are the questions links with solution links
 |763. [Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P763%20-%20partitionLabels.py)|
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|
 |792. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P792%20-%20numberOfMatchingSubsequences.py)|
-|804. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution]()|
+|804. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P804%20-%20uniqueMorseCodeWords.py)|
 |844. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P844%20-%20backspaceStringCompare.py)|
 |848. [Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P848%20-%20shiftingLetters.py)|
 |890. [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P890%20-%20findAndReplacePattern.py)|
 |917. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P917%20-%20reverseOnlyLetters.py)|
 |929. [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P929%20-%20uniqueEmailAddresses.py)|
-|936. [Stamping the Sequence](https://leetcode.com/problems/stamping-the-sequence)|[Solution]()|
+|936. [Stamping the Sequence](https://leetcode.com/problems/stamping-the-sequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P936%20-%20stampingTheSequence.py)|
 |1021. [Remove Outermost Parenthesis](https://leetcode.com/problems/remove-outermost-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1021%20-%20removeOutermostParentheses.py)|
 |1044. [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1044%20-%20longestDuplicateSubstring.py)|
 |1047. [Remove all Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1047%20-%20RemoveAllAdjacentDuplicatesInAString.py)|

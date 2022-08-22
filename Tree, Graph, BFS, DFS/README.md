@@ -16,8 +16,8 @@ Below are the questions links with solution links
 |113. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P113%20-%20pathSum_II.py)|
 |114. [Flatten Binary Tree to linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P114%20-%20flattenBinaryTreeToLinkedList.py)|
 |124. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P124%20-%20binaryTreeMaximumPathSum.py)|
-|126. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii)|[Solution]()|
-|127. [Word Ladder](https://leetcode.com/problems/word-ladder)|[Solution]()|
+|126. [Word Ladder II](https://leetcode.com/problems/word-ladder-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P126%20-%20wordLadder_II.py)|
+|127. [Word Ladder](https://leetcode.com/problems/word-ladder)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P127%20-%20wordLadder.py)|
 |130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P130%20-%20surroundedRegions.py)|
 |133. [Clone Graph](https://leetcode.com/problems/clone-graph)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P133%20-%20cloneGraph.py)|
 |144. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P144%20-%20binaryTreePreorderTraversal.py)|

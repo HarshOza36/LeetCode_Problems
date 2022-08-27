@@ -23,6 +23,7 @@ Below are the questions links with solution links
 |242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P242%20-%20validAnagram.py)|
 |299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P299%20-%20bullsAndCows.py)|
 |344. [Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P344%20-%20reverseString.py)|
+|383. [Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution]()|
 |387. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P387%20-%20firstUniqueCharaterInAstring.py)|
 |392. [Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P392%20-%20isSubsequence.py)|
 |394. [Decode String](https://leetcode.com/problems/decode-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P394%20-%20decodeString.py)|

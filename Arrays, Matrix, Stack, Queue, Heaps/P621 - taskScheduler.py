@@ -32,9 +32,10 @@ class Solution:
                 # notice we add -freq because we want max heap so we ++ here
         
                 if f:
-                    # freq, character, next add time
+                    # freq, next add time
                     q.append([f, time + n])
             
+            # If the process can be rescheduled, add it to heap
             if q and q[0][1] == time:
                 heapq.heappush(heap, q.popleft()[0])
         return time

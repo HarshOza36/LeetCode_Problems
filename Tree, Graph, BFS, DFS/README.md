@@ -36,6 +36,7 @@ Below are the questions links with solution links
 |399. [Evaluate Division](https://leetcode.com/problems/evaluate-division)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P399%20-%20evaluateDivision.py)|
 |404. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P404%20-%20sumOfLeftLeaves.py)|
 |417. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P417%20-%20pacificAtlanticWaterFlow.py)|
+|429. [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[Solution]()|
 |437. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P437%20-%20pathSum_III.py)|
 |463. [Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P463%20-%20islandPerimeter.py)|
 |543. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P543%20-%20diameterOfBinaryTree.py)|
@@ -52,6 +53,7 @@ Below are the questions links with solution links
 |733. [Flood Fill](https://leetcode.com/problems/flood-fill)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P733%20-%20floodFill.py)|
 |785. [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P785%20-%20isGraphBipartite.py)|
 |797. [All paths from source to Target](https://leetcode.com/problems/all-paths-from-source-to-target)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P797%20-%20allPathsFromSourceToTarget.py)|
+|814. [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Solution]()|
 |815. [Bus Routes](https://leetcode.com/problems/bus-routes/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P815%20-%20busRoutes.py)|
 |841. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P841%20-%20keysAndRooms.py)|
 |897. [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P897%20-%20increasingOrderSearchTree.py)|

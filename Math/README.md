@@ -13,6 +13,8 @@ Below are the questions links with solution links
 |202. [Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P202%20-%20happyNumber.py)|
 |224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P224%20-%20basicCalculator.py)|
 |231. [Power of Two](https://leetcode.com/problems/power-of-two)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P231%20-%20powerOfTwo.py)|
+|326. [Power of Three](https://leetcode.com/problems/power-of-three/)|[]()|
+|342. [Power of Fout](https://leetcode.com/problems/power-of-four/)|[Solution]()|
 |367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P367%20-%20validPerfectSquare.py)|
 |412. [FizzBuzz](https://leetcode.com/problems/fizz-buzz)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P412%20-%20fizzBuzz.py)|
 |441. [Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P441%20-%20arrangingCoins.py)|
@@ -24,8 +26,11 @@ Below are the questions links with solution links
 |779. [Kth Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P779%20-%20kthSymbolInGrammar.py)|
 |780. [Reaching Points](https://leetcode.com/problems/reaching-points/)|[Sollution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P780%20-%20reachingPoints.py)|
 |858. [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P858%20-%20mirrorReflection.py)|
+|869. [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Solution]()|
 |877. [Stone Game](https://leetcode.com/problems/stone-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P877%20-%20StoneGame.py)|
+|1250. [Check If It Is A Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Solution]()|
 |1281. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1281%20-%20subtracttheProductandSumofDigitsofanInteger.py)|
 |1486. [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1486%20-%20XORoperationInAnArray.py)|
 |1512. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1512%20-%20numberOfGoodPairs.py)|
+|1822. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Solution]()|
 |1828. [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1828%20-%20queriesOnNumberOfPointsInsideCircle.py)|

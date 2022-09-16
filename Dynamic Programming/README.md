@@ -8,6 +8,7 @@ Below are the questions links with solution links
 |55. [Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P55%20-%20jumpGame.py)|
 |62. [Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P62%20-%20uniquePaths.py)|
 |70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P70%20-%20climbingStairs.py)|
+|72. [Edit Distance](https://leetcode.com/problems/edit-distance/)|[Solution]()|
 |91. [Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P91%20-%20decodeWays.py)|
 |97. [Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P97%20-%20interleavingString.py)|
 |118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P118%20-%20pascal'sTriangle.py)|
@@ -16,6 +17,8 @@ Below are the questions links with solution links
 |121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P121%20-%20bestTimeToBuyAndSellStock.py)|
 |122. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P122%20-%20bestTimeToBuyAndSellStock_II.py)|
 |123. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P123%20-%20bestTimeToBuyAndSellStock_III.py)|
+|152. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution]()|
+|188. []()|[Solution]()|
 |198. [House Robber](https://leetcode.com/problems/house-robber/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P198%20-%20houseRobber.py)|
 |213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P213%20-%20houseRobber_II.py)|
 |279. [Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P279%20-%20perfectSquares.py)|
@@ -24,11 +27,13 @@ Below are the questions links with solution links
 |322. [Coin Change](https://leetcode.com/problems/coin-change)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P322%20-%20coinChange.py)|
 |338. [Counting Bits](https://leetcode.com/problems/counting-bits)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P338%20-%20Counting%20Bits.py)|
 |354. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P354%20-%20russionDollEnvelopes.py)|
+|416. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution]()|
 |509. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P509%20-%20fibonacciNumber.py)|
 |518. [Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P518%20-%20coinChange2.py)|
 |583. [Delete Operations for two strings](https://leetcode.com/problems/delete-operation-for-two-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P583%20-%20deleteOperationForTwoStrings.py)|
 |647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P647%20-%20palindromicSubstrings.py)|
 |746. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P746%20-%20minCostClimbingStairs.py)|
+|823. [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Solution]()|
 |926. [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P926%20-%20flipStringToMonotoneIncreasing.py)|
 |978. [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P978%20-%20longestTurbulentSubarray.py)|
 |1025. [Divisor Game](https://leetcode.com/problems/divisor-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1025%20-%20divisorGame.py)|
@@ -39,3 +44,4 @@ Below are the questions links with solution links
 |1473. [Paint House III](https://leetcode.com/problems/paint-house-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1473%20-%20paintHouse_III.py)|
 |1493. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1493%20-%20longestSubarrayOf1sAfterDeletingOneElement.py)|
 |1696. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1696%20-%20jumpGame_VI.py)|
+|1770. [Maximum Score from Performing Multication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)|[Solution]()|

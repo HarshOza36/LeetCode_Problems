@@ -6,7 +6,7 @@ Below are the questions links with solution links
 |--------------|--------|
 |136. [Single Number](https://leetcode.com/problems/single-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P136%20-%20singleNumber.py)|
 |190. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P190%20-%20reverseBits.py)|
-|191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Solution]([https://leetcode.com/problems/number-of-1-bits](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P191%20-%20numberOf1Bits.py))|
+|191. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P191%20-%20numberOf1Bits.py)|
 |201. [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P201%20-%20bitwiseANDofNumbersRange.py)|
 |268. [Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P268%20-%20missingNumber.py)|
 |371. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P371%20-%20sumOfTwoIntegers.py)|

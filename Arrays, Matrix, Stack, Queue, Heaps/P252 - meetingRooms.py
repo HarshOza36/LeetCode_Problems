@@ -6,4 +6,5 @@ class Solution:
         for currStart, currEnd in intervals[1:]:
             if currStart < prevEnd:
                 return False
+            prevEnd = currEnd
         return True

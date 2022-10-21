@@ -6,6 +6,7 @@ Below are the questions links with solution links
 |--------------|--------|
 |01. [Two Sum](https://leetcode.com/problems/two-sum)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P01%20-%20twoSum.py)|
 |04. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P04%20-%20medianOfTwoSortedArrays.py)|
+|11. []()|[Solution]()|
 |15. [3Sum](https://leetcode.com/problems/3sum/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P15%20-%203Sum.py)|
 |16. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P16%20-%203SumClosest.py)|
 |26. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P26%20-%20remove_duplicates_from_sorted_array.py)|
@@ -13,6 +14,7 @@ Below are the questions links with solution links
 |33. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P33%20-%20searchInRotatedSortedArray.py)|
 |34. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P34%20-%20findFirstAndLastPositionOfElementInSortedArray.py)|
 |36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P36%20-%20validSudoku.py)|
+|42. []()|[Solution]()|
 |48. [Rotate Image](https://leetcode.com/problems/rotate-image)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P48%20-%20rotateImage.py)|
 |54. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P54%20-%20spiralMatrix.py)|
 |56. [Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P56%20-%20mergeIntervals.py)|
@@ -34,6 +36,7 @@ Below are the questions links with solution links
 |227. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P227%20-%20basicCalculator_II.py)|
 |228. [Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P228%20-%20summaryRanges.py)|
 |238. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P238%20-%20productOfArrayExceptSelf.py)|
+|239. []()|[Solution]()|
 |240. [Search A 2d Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P240%20-%20searchA2dMatrix_II.py)|
 |252. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P252%20-%20meetingRooms.py)|
 |253. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P253%20-%20meetingRooms_II.py)|
@@ -50,6 +53,7 @@ Below are the questions links with solution links
 |560. [Subarray Sum equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P560%20-%20subarraySumEqualsK.py)|
 |598. [Range Addition II](https://leetcode.com/problems/range-addition-ii)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P598%20-%20RangeAdditionII.py)|
 |621. [Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P621%20-%20taskScheduler.py)|
+|658. []()|[Solution]()|
 |659. [Split Array Into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P659%20-%20splitArrayIntoConsecutiveSubsequences.py)|
 |682. [Baseball Game](https://leetcode.com/problems/baseball-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P682%20-%20baseballGame.py)|
 |724. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P724%20-%20findPivotIndex.py)|
@@ -62,7 +66,9 @@ Below are the questions links with solution links
 |921. [Minimum Add to make Parenthesis Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P921%20-%20minimumAddToMakeParenthesisValid.py)|
 |922. [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P922%20-%20sortArrayByParity_II.py)|
 |948. [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P948%20-%20bagOfTokens.py)|
+|973. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution]()|
 |977. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P977%20-%20squaresofaSortedArray.py)|
+|985. []()|[Solution]()|
 |986. [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P986%20-%20intervalListIntersections.py)|
 |1010. [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P1010%20-%20pairsOfSongsWithTotalDurationsDivisibleBy60.py)|
 |1046. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/submissions/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P1046%20-%20lastStoneWeight.py)|
@@ -89,12 +95,15 @@ Below are the questions links with solution links
 |1480. [Running Sum of 1-d Array](https://leetcode.com/problems/running-sum-of-1d-array) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1480%20-%20RunningSum.py)|
 |1502. [Can make Arithmetic Progression from Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1502%20-%20canMakeArithmeticProgressionFromSequence.py)|
 |1539. [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1539%20-%20kthMissingPositiveNumber.py)|
+|1567. []()|[Solution]()|
+|1578. [Minimum Time To Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)|[Solution]()|
 |1608. [Special Array with X elements greater than or equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1608%20-%20specialArrayWithXElementsGreaterThanOrEqualX.py)|
 |1642. [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1642%20-%20furthestBuildingYouCanReach.py)|
 |1658. [Minimum Operations To reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1658%20-%20minimumOperationsToReduceXToZero.py)|
 |1672. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1672%20-%20Richest_Customer_Wealth.py)|
 |1695. [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1695%20-%20maximumErasureValue.py)|
 |1706. [Where will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P1706%20-%20whereWillTheBallFall.py)|
+|1710. []()|[Solution]()|
 |1833. [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1833%20-%20maximumIcecreamBars.py)|
 |1851. [Minimum Interval To Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P1851%20-%20minimumIntervalToIncludeEachQuery.py)|
 |1909. [Remove one element to make the array strictly increasing ](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing) |[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P1909%20-%20RemoveOneElementtoMaketheArrayStrictlyIncreasing.py)|
@@ -104,5 +113,6 @@ Below are the questions links with solution links
 |1996. [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P1996%20-%20theNumberOfWeakCharactersInTheGame.py)|
 |2007. [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P2007%20-%20findOriginalArrayFromDoubledArray.py)|
 |2011. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P2011%20-%20findValueOFVariableAfterPerformingOperations.py)|
+|2100. [Find Good Days to Rob The Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/)|[Solution]()|
 |2114. [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays,%20Matrix,%20Stack,%20Queue,%20Heaps/P2114%20-%20maxNumberOfWordsFoundInSentences.py)|
 |2131. [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Arrays%2C%20Matrix%2C%20Stack%2C%20Queue%2C%20Heaps/P2131%20-%20longestPalindromeByConcatenatingTwoLetterWords.py)|

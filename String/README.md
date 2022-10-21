@@ -22,6 +22,7 @@ Below are the questions links with solution links
 |205. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P205%20-%20isomorphicString.py)|
 |242. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P242%20-%20validAnagram.py)|
 |299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P299%20-%20bullsAndCows.py)|
+|336. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution]()|
 |344. [Reverse String](https://leetcode.com/problems/reverse-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P344%20-%20reverseString.py)|
 |383. [Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P383%20-%20ransomNote.py)|
 |387. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P387%20-%20firstUniqueCharaterInAstring.py)|
@@ -32,6 +33,7 @@ Below are the questions links with solution links
 |438. [Find All Anagrams in A String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P438%20-%20findAllAnagramsInAString.py)|
 |443. [String Compression](https://leetcode.com/problems/string-compression/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P443%20-%20stringCompression.py)|
 |451. [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P451%20-%20sortCharactersByFrequency.py)|
+|557. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution]()|
 |567. [Permutation In string](https://leetcode.com/problems/permutation-in-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P567%20-%20permutationInString.py)|
 |657. [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P657%20-%20robotReturnToOrigin.py)|
 |692. [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P692%20-%20topKFrequentWords.py)|
@@ -40,6 +42,7 @@ Below are the questions links with solution links
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|
 |792. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P792%20-%20numberOfMatchingSubsequences.py)|
 |804. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P804%20-%20uniqueMorseCodeWords.py)|
+|838. [Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[Solution]()|
 |844. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P844%20-%20backspaceStringCompare.py)|
 |848. [Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P848%20-%20shiftingLetters.py)|
 |890. [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P890%20-%20findAndReplacePattern.py)|
@@ -52,8 +55,10 @@ Below are the questions links with solution links
 |1108. [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1108%20-%20Defanging%20an%20IP%20address.py)|
 |1189. [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1189%20-%20maximumNumberofBalloons.py)|
 |1221. [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1221%20-%20splitAStringInBalancedStrings.py)|
+|1268. [Search Suggestion System](https://leetcode.com/problems/search-suggestions-system/)|[Solution]()|
 |1328. [Break A Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1328%20-%20breakPalindrome.py)|
 |1332. [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1332%20-%20removePalindromicSubsequence.py)|
+|1370. [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution]()|
 |1528. [Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1528%20-%20Shuffle%20String.py)|
 |1592. [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1592%20-%20rearrangeSpacesBetweenWords.py)|
 |1614. [Maximum Nesting Depth of the Parenthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1614%20-%20maximumNestingDepthOfTheParentheses.py)|

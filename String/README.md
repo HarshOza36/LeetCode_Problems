@@ -12,6 +12,7 @@ Below are the questions links with solution links
 |20. [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P20%20-%20validParenthesis.py)|
 |28. [Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P28%20-%20implementstrStr().py)|
 |30. [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P30%20-%20substringWithConcatenationOfAllWords.py)|
+|38. [Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution]()|
 |49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P49%20-%20groupAnagrams.py)|
 |58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P58%20-%20lengthofLastWord.py)|
 |76. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P76%20-%20minimumWindowSubstring.py)|
@@ -53,6 +54,7 @@ Below are the questions links with solution links
 |1044. [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1044%20-%20longestDuplicateSubstring.py)|
 |1047. [Remove all Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1047%20-%20RemoveAllAdjacentDuplicatesInAString.py)|
 |1108. [Defanging an IP address](https://leetcode.com/problems/defanging-an-ip-address)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1108%20-%20Defanging%20an%20IP%20address.py)|
+|1177. [Can make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)|[Solution]()|
 |1189. [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1189%20-%20maximumNumberofBalloons.py)|
 |1221. [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1221%20-%20splitAStringInBalancedStrings.py)|
 |1268. [Search Suggestion System](https://leetcode.com/problems/search-suggestions-system/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1268%20-%20searchSuggestionsSystem.py)|
@@ -60,6 +62,7 @@ Below are the questions links with solution links
 |1332. [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1332%20-%20removePalindromicSubsequence.py)|
 |1370. [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1370%20-%20increasingDecreasingString.py)|
 |1528. [Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1528%20-%20Shuffle%20String.py)|
+|1544. [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)|[Solution]()|
 |1592. [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1592%20-%20rearrangeSpacesBetweenWords.py)|
 |1614. [Maximum Nesting Depth of the Parenthesis](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1614%20-%20maximumNestingDepthOfTheParentheses.py)|
 |1624. [Largest Substring between two equal characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1624%20-%20largestSubstringBetweenTwoEqualCharacters.py)|

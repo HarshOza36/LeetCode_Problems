@@ -30,6 +30,7 @@ Below are the questions links with solution links
 |877. [Stone Game](https://leetcode.com/problems/stone-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P877%20-%20StoneGame.py)|
 |1250. [Check If It Is A Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1250%20-%20checkIfItIsAGoodArray.py)|
 |1281. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1281%20-%20subtracttheProductandSumofDigitsofanInteger.py)|
+|1323. [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)|[Solution]()|
 |1486. [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1486%20-%20XORoperationInAnArray.py)|
 |1512. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1512%20-%20numberOfGoodPairs.py)|
 |1822. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1822%20-%20signOfTheProductOfAnArray.py)|

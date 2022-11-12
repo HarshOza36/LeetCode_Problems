@@ -15,6 +15,7 @@ Below are the questions links with solution links
 |38. [Count and Say](https://leetcode.com/problems/count-and-say/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P38%20-%20countAndSay.py)|
 |49. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P49%20-%20groupAnagrams.py)|
 |58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P58%20-%20lengthofLastWord.py)|
+|68. [Text Justification](https://leetcode.com/problems/text-justification/description/)|[Solution]()|
 |76. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P76%20-%20minimumWindowSubstring.py)|
 |125. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P125%20-%20validPalindrome.py)|
 |151. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P151%20-%20reverseWordsInString.py)|

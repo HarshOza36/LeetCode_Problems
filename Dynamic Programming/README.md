@@ -35,6 +35,7 @@ Below are the questions links with solution links
 |583. [Delete Operations for two strings](https://leetcode.com/problems/delete-operation-for-two-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P583%20-%20deleteOperationForTwoStrings.py)|
 |647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P647%20-%20palindromicSubstrings.py)|
 |718. [Maximum Length Of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P718%20-%20maximumLengthOfRepeatedSubarray.py)|
+|741. [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)|[Solution]()|
 |746. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P746%20-%20minCostClimbingStairs.py)|
 |823. [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P823%20-%20binaryTreesWithFactors.py)|
 |926. [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P926%20-%20flipStringToMonotoneIncreasing.py)|
@@ -45,6 +46,8 @@ Below are the questions links with solution links
 |1143. [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1143%20-%20longestCommonSubsequence.py)|
 |1155. [Number of Dice Rolls with Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1155%20-%20numberOFDiceRollsWithTargetSum.py)|
 |1220. [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1220%20-%20countVowelsPermutation.py)|
+|1223. [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)|[Solution]()|
+|1411. [Number of Ways to Paint Nx3](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)|[Solution]()|
 |1473. [Paint House III](https://leetcode.com/problems/paint-house-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1473%20-%20paintHouse_III.py)|
 |1493. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1493%20-%20longestSubarrayOf1sAfterDeletingOneElement.py)|
 |1696. [Jump Game VI](https://leetcode.com/problems/jump-game-vi/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P1696%20-%20jumpGame_VI.py)|

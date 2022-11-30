@@ -13,8 +13,8 @@ Below are the questions links with solution links
 |202. [Happy Number](https://leetcode.com/problems/happy-number/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P202%20-%20happyNumber.py)|
 |224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P224%20-%20basicCalculator.py)|
 |231. [Power of Two](https://leetcode.com/problems/power-of-two)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P231%20-%20powerOfTwo.py)|
-|263. [Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[Solution]()|
-|323. [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)|[Solution]()|
+|263. [Ugly Number](https://leetcode.com/problems/ugly-number/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P263%20-%20uglyNumber.py)|
+|323. [Rectangle Area](https://leetcode.com/problems/rectangle-area/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P323%20-%20rectangleArea.py)|
 |326. [Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P326%20-%20powerOfThree.py)|
 |342. [Power of Four](https://leetcode.com/problems/power-of-four/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P342%20-%20powerOfFour.py)|
 |367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P367%20-%20validPerfectSquare.py)|

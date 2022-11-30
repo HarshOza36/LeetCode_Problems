@@ -1,43 +1,60 @@
-class MyHashMap(object):
+class Buckets:
+    def __init__(self,):
+        self.bucket = []
 
+    def get(self, key):
+        for k, v in self.bucket:
+            if k == key:
+                return v
+        return -1
+    
+    def update(self, key, value):
+        for idx, (k, v) in enumerate(self.bucket):
+            if k == key:
+                # if key exists update
+                self.bucket[idx] = (key, value)
+                break
+        else:
+            # else append it to bucket
+            self.bucket.append((key, value))
+
+    def remove(self, key):
+        for idx, (k, v) in enumerate(self.bucket):
+            if k == key:
+                print(self.bucket[idx])
+                del self.bucket[idx]
+            
+class MyHashMap(object):
     def __init__(self):
-        """
-        Initialize your data structure here.
-        """
-        self.hashmap = {}
+        self.modulus = 2069 # to avoid collisions prime number modulus
+        self.hash_map = [Buckets() for i in range(self.modulus)]
 
     def put(self, key, value):
         """
-        value will always be non-negative.
         :type key: int
         :type value: int
         :rtype: None
         """
-        self.hashmap[key] = value
-        
+        hash_key = key % self.modulus
+        self.hash_map[hash_key].update(key, value)
 
     def get(self, key):
         """
-        Returns the value to which the specified key is mapped, or -1 if this map contains no mapping for the key
         :type key: int
         :rtype: int
         """
-        if(key in self.hashmap):
-            return self.hashmap[key]
-        else:
-            return -1
+        hash_key = key % self.modulus
+        return self.hash_map[hash_key].get(key)
         
 
     def remove(self, key):
         """
-        Removes the mapping of the specified value key if this map contains a mapping for the key
         :type key: int
         :rtype: None
         """
-        if(key in self.hashmap):
-            del self.hashmap[key]
-        else:   
-            pass
+        hash_key = key % self.modulus
+        self.hash_map[hash_key].remove(key)
+        
 
 
 # Your MyHashMap object will be instantiated and called as such:

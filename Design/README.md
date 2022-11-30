@@ -14,6 +14,7 @@ Below are the questions links with solution links
 |341. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Solution]()|
 |359. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution]()|
 |380. [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P380%20-%20insertDeleteGetRandom_O(1).py)|
+|382. [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/)|[Solution]()|
 |528. [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/)|[Solution]()|
 |622. [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P622%20-%20designCircularQueue.py)|
 |705. [Design a HashSet](https://leetcode.com/problems/design-hashset)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P705.%20Design%20Hashset.py)|

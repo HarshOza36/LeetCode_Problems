@@ -62,7 +62,7 @@ Below are the questions links with solution links
 |1328. [Break A Palindrome](https://leetcode.com/problems/break-a-palindrome/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1328%20-%20breakPalindrome.py)|
 |1332. [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1332%20-%20removePalindromicSubsequence.py)|
 |1370. [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1370%20-%20increasingDecreasingString.py)|
-|1419. [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/)|[Solution]()|
+|1419. [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1419%20-%20minimumNumberOfFrogsCroaking.py)|
 |1528. [Shuffle String](https://leetcode.com/problems/shuffle-string)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1528%20-%20Shuffle%20String.py)|
 |1544. [Make The String Great](https://leetcode.com/problems/make-the-string-great/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1544%20-%20makeTheStringGreat.py)|
 |1592. [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P1592%20-%20rearrangeSpacesBetweenWords.py)|

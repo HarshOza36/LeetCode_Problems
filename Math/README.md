@@ -19,6 +19,7 @@ Below are the questions links with solution links
 |342. [Power of Four](https://leetcode.com/problems/power-of-four/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P342%20-%20powerOfFour.py)|
 |367. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P367%20-%20validPerfectSquare.py)|
 |412. [FizzBuzz](https://leetcode.com/problems/fizz-buzz)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P412%20-%20fizzBuzz.py)|
+|423. [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)|[Solution]()|
 |441. [Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P441%20-%20arrangingCoins.py)|
 |458. [Poor Pigs](https://leetcode.com/problems/poor-pigs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P458%20-%20poorPigs.py)|
 |462. [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P462%20-%20minimumMovesToEqualArrayElements_II.py)|

@@ -1,9 +1,9 @@
 # LeetCode_Problems
 
 ```css
-                                    Solutions to my LeetCode Problem Solving
-Use the Solutions links below, which brings you to a Readme file of that problem type for navigating problems easily
-The problem types not listed here are covered in Misc Folder.
+                        Solutions to my LeetCode Problem Solving
+Use the Solutions links below, which brings you to a Readme file of that problem type 
+for navigating problems easily The problem types not listed here are covered in Misc Folder.
 ```
 Also,
 Use Github Feature Preview -  > Command Palette

@@ -61,7 +61,7 @@ Below are the questions links with solution links
 |797. [All paths from source to Target](https://leetcode.com/problems/all-paths-from-source-to-target)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P797%20-%20allPathsFromSourceToTarget.py)|
 |814. [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P814%20-%20binaryTreePruning.py)|
 |815. [Bus Routes](https://leetcode.com/problems/bus-routes/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P815%20-%20busRoutes.py)|
-|834. [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)|[Solution]()|
+|834. [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P834%20-%20sumOfDistancesInTree.py)|
 |841. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P841%20-%20keysAndRooms.py)|
 |886. [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P886%20-%20possibleBipartite.py)| 
 |897. [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Tree%2C%20Graph%2C%20BFS%2C%20DFS/P897%20-%20increasingOrderSearchTree.py)|

@@ -6,7 +6,7 @@ Below are the questions links with solution links
 |--------------|--------|
 |03. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P03%20-%20longestSubstrngWithoutRepeatingChars.py)|
 |05. [Longest Palindromic String](https://leetcode.com/problems/longest-palindromic-substring)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P05%20-%20longestPalindromicString.py)|
-|06. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Solution]()|
+|06. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P06%20-%20zigzagConversion.py)|
 |12. [Integer To Roman](https://leetcode.com/problems/integer-to-roman)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P12%20-%20intergerToRoman.py)|
 |13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P13%20-%20romanToInteger.py)|
 |14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P14%20-%20longestCommonPrefix.py)|
@@ -45,7 +45,7 @@ Below are the questions links with solution links
 |771. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P771%20-%20jewelsAndStones.py)|
 |792. [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P792%20-%20numberOfMatchingSubsequences.py)|
 |804. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P804%20-%20uniqueMorseCodeWords.py)|
-|833. [Find and Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/)|[Solution]()|
+|833. [Find and Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P833%20-%20findAndReplaceInString.py)|
 |838. [Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P838%20-%20pushDominoes.py)|
 |844. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P844%20-%20backspaceStringCompare.py)|
 |848. [Shifting Letters](https://leetcode.com/problems/shifting-letters/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/String/P848%20-%20shiftingLetters.py)|

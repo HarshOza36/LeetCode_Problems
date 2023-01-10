@@ -4,8 +4,7 @@ Below are the questions links with solution links
 
 |Problem Number|Solution|
 |--------------|--------|
-|05. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution]()|
-|52. []()|[Solution]()|
+|05. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P05%20-%20longestPalindromicSubstring.py)|
 |53. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P53%20-%20maximumSubarray.py)|
 |55. [Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P55%20-%20jumpGame.py)|
 |62. [Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P62%20-%20uniquePaths.py)|
@@ -31,17 +30,17 @@ Below are the questions links with solution links
 |337. [House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P337%20-%20houseRobber_III.py)|
 |338. [Counting Bits](https://leetcode.com/problems/counting-bits)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P338%20-%20Counting%20Bits.py)|
 |354. [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P354%20-%20russionDollEnvelopes.py)|
-|413. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution]()|
+|413. [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P413%20-%20arithmeticSlices.py)|
 |416. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P416%20-%20partitionEqualSubsetSum.py)|
-|446.[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)|[Solution]()|
+|446.[Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P446%20-%20arithmeticSequence_II_Subsequence.py)|
 |509. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P509%20-%20fibonacciNumber.py)|
-|516. [Logest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|[Solution]()|
+|516. [Logest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P516%20-%20longestPalindromicSubsequence.py)|
 |518. [Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P518%20-%20coinChange2.py)|
-|552. [Student Attendence Record II](https://leetcode.com/problems/student-attendance-record-ii/description/)|[Solution]()|
+|552. [Student Attendence Record II](https://leetcode.com/problems/student-attendance-record-ii/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P52%20-%20studentAttendenceRecord_II.py)|)|
 |583. [Delete Operations for two strings](https://leetcode.com/problems/delete-operation-for-two-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P583%20-%20deleteOperationForTwoStrings.py)|
 |647. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P647%20-%20palindromicSubstrings.py)|
 |718. [Maximum Length Of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P718%20-%20maximumLengthOfRepeatedSubarray.py)|
-|730. [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/)|[Solution]()|
+|730. [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P730%20-%20countDifferentPalindromicSubsequences.py)|
 |741. [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P741%20-%20cherryPickup.py)|
 |746. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P746%20-%20minCostClimbingStairs.py)|
 |823. [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Dynamic%20Programming/P823%20-%20binaryTreesWithFactors.py)|

@@ -22,6 +22,6 @@ Below are the questions links with solution links
 |1684. [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P1684%20-%20countTheNumberOfConsistentString.py)|
 |1863. [Sum of all subset XOR totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P1863%20-%20sumOfAllSubsetXORTotals.py)|
 |2002. [Maximum Product of the Length of Two Palindromic Subsequences
-](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/)|[Solution]()|
+](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P2002%20-%20maximumProductOfTheLengthOfTwoPalindromicSubsequences.java)|
 |2206. [Divide Array into Equal Parts](https://leetcode.com/problems/divide-array-into-equal-pairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P2206%20-%20divideArrayIntoEqualParts.py)|
 |2220. [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Bit%20Manipulation/P2220%20-%20minimumBitFlipsToConvertNumber.py)|

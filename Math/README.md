@@ -32,10 +32,13 @@ Below are the questions links with solution links
 |858. [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P858%20-%20mirrorReflection.py)|
 |869. [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P869%20-%20reorderedPowerOf2.py)|
 |877. [Stone Game](https://leetcode.com/problems/stone-game)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P877%20-%20StoneGame.py)|
+|976. [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)|[Solution]()|
+|989. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/description/)|[Solution]()|
 |1250. [Check If It Is A Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1250%20-%20checkIfItIsAGoodArray.py)|
 |1281. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1281%20-%20subtracttheProductandSumofDigitsofanInteger.py)|
 |1323. [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1323%20-%20maximum69Number.py)|
 |1486. [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1486%20-%20XORoperationInAnArray.py)|
 |1512. [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1512%20-%20numberOfGoodPairs.py)|
+|1523. [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/)|[Solution]()|
 |1822. [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1822%20-%20signOfTheProductOfAnArray.py)|
 |1828. [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Math/P1828%20-%20queriesOnNumberOfPointsInsideCircle.py)|

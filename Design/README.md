@@ -8,7 +8,7 @@ Below are the questions links with solution links
 |155. [Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P155%20-%20minStack.py)|
 |173. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P173%20-%20binarySearchTreeIterator.py)|
 |208. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](<https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P208%20-%20implementTrie(PrefixTree).py>)|
-|225. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[Solution]()|
+|225. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P225%20-%20implementStackUsingQueues.py)|
 |232. [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P232%20-%20implementQueueUsingStacks.py)|
 |295. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P295%20-%20findMedianFromDataStream.py)|
 |307. [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/Design/P307%20-%20rangeSumQuery_Mutable.py)|

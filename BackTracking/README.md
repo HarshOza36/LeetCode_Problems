@@ -14,8 +14,8 @@ Below are the questions links with solution links
 |78. [Subsets](https://leetcode.com/problems/subsets)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P78%20-%20subsets.py)|
 |79. [Word Search](https://leetcode.com/problems/word-search)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P79%20-%20wordSearch.py)|
 |90. [Subsets II](https://leetcode.com/problems/subsets-ii/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P90%20-%20subsets_II.py)|
-|93. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)|[Solution]()|
-|131. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|[Solution]()|
+|93. [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P93%20-%20restoreIPaddresses.py)|
+|131. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P131%20-%20palindromePartitioning.py)|
 |140. [Word Break II](https://leetcode.com/problems/word-break-ii/description/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P140%20-%20wordBreak_II.py)|
 |282. [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P282%20-%20ExpressionAddOperators.py)|
 |473. [Matchsticks To Square](https://leetcode.com/problems/matchsticks-to-square/)|[Solution](https://github.com/HarshOza36/LeetCode_Problems/blob/main/BackTracking/P473%20-%20matchsticksToSquare.py)|

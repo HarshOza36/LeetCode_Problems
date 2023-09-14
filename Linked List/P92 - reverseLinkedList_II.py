@@ -1,8 +1,49 @@
+# Two Pass Solution
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+# # class ListNode:
+# #     def __init__(self, val=0, next=None):
+# #         self.val = val
+# #         self.next = next
+# class Solution:
+#     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
+#         if left == right:
+#             return head
+        
+#         leftPtr = rightPtr = leftPrevPtr = rightNextPtr = None
+#         temp = head
+#         count = 1
+#         prev = None
+#         while temp:
+#             if count == left:
+#                 leftPtr = temp
+#                 leftPrevPtr = prev
+#             elif count == right:
+#                 rightPtr = temp
+#                 rightNextPtr = temp.next
+#                 break
+#             count += 1
+#             prev = temp
+#             temp = temp.next
+
+#         curr = leftPtr.next
+#         prev = leftPtr
+
+#         while curr != rightPtr:
+#             nxt = curr.next
+#             curr.next = prev
+#             prev = curr
+#             curr = nxt
+
+
+#         curr.next = prev
+#         if leftPrevPtr: 
+#             leftPrevPtr.next = rightPtr
+#         else:
+#             head = curr
+#         leftPtr.next = rightNextPtr
+#         return head
+            
+# One Pass Solution
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
         if not head or left == right: return head
